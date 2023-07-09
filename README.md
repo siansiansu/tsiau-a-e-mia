@@ -20,7 +20,7 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 
 &nbsp;
 
-> 這個網站是我出去看鳥仔紀錄的 IG「鳥仔 ê 名」的文字版，有的鳥仔名是我凊彩號的喔。
+> 這個網站是我出去看鳥仔紀錄的 IG「[鳥仔 ê 名](https://www.instagram.com/siansiansu/)」的文字版，有的鳥仔名是我凊彩號的喔。
 > 
 > Tsit-ê bāng-tsām sī guá tshut-khì khuànn tsiáu-á kì-lo̍k	ê IG "tsiáu-á ê miâ" ê bûn-jī pán-pún, ū-ê tsiáu-á miâ sī guá tshìn-tshái hō ê --ooh.
 
