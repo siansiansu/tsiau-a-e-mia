@@ -13,3 +13,9 @@
 - [Taiwan Yuhina 冠羽畫眉](https://www.instagram.com/p/Cm0uK0EvTnw/) - tsiam-thâu-á 尖頭仔、hue-bî-á 花眉仔、kuan-ú-uē-bâi 冠羽畫眉。
 - [White-bellied Erpornis 綠畫眉](https://www.instagram.com/p/CmmM_mBvJ1w/) - hue-bî-á 花眉仔、pe̍h-pak-ue-bâi 白腹畫眉、lio̍k-uē-bâi 綠畫眉。
 - [White-eared Sibia 白耳畫眉](https://www.instagram.com/p/CmviT9RP8Wv/) - hue-bî-á 花眉仔、pe̍h-hīnn-á 白耳仔、pe̍h-hīnn-uē-bâi 白耳畫眉。
+- [【草鵐】Meadow Bunting](https://www.instagram.com/p/Ct1gbnIR-fd/) -【草鵐】tsháu-bû、【草仔鵐】tsháu-á bû。
+- [【白眶海鴿】Spectacled Guillemot](https://www.instagram.com/p/Ctno6QZRwtr/) -【海雀】hái-tshiok、【海鴿】hái-kah、【目鏡欸】ba̍k-kiànn-ê、【紅跤欸】hông-kha-ê、【目鏡海雀】ba̍k-kiànn hái-tshiok、【白眶海雀】pe̍h-khing hái-tshiok、【目鏡海雀】ba̍k-kiànn hái-tshiok、【紅跤海雀】hông-kha hái-tshiok、【目鏡海鴿】ba̍k-kiànn hái-kah、【白眶海鴿】pe̍h-khing hái-kah、【目鏡海鴿】ba̍k-kiànn hái-kah、【紅跤海鴿】hông-kha hái-kah。
+- [【長尾朱雀】Long-tailed Rosefinch](https://www.instagram.com/p/CtUFla0PGEB/) -【長尾紅鳥仔】tn̂g-bué âng-tsiáu-á、【長尾朱衣】tn̂g-bué tsu-i、【長尾朱雀】tn̂g-bué tsu-tshiok。
+- [【日本樹鶯】Japanese Bush Warbler](https://www.instagram.com/p/CtRiGfXPFuV/) -【日本樹鶯】Ji̍t-pún tshiū-ing。
+- [【虎頭海鵰】Steller's Sea-Eagle](https://www.instagram.com/p/CtCIWNkRBJk/) -【虎頭海鷹】hóo-thâu-hái-ing。
+- [【茶腹鳾】Eurasian Nuthatch](https://www.instagram.com/p/Cs8903UR7v5/) -【茶腹鳾】tê-pak-sai / tê-pak-su。
