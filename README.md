@@ -1,12 +1,20 @@
-# 鳥仔 ê 名
+# 鳥仔 ê 名 - 文字版
 
 ![image](https://user-images.githubusercontent.com/33391637/235700763-b3922fc6-5cbb-47e7-9de7-bfda3ad28e0d.png)
 
-這個網站是我的 IG「鳥仔 ê 名」的文字版，有的鳥仔是我凊彩號的。
+為著予大家認捌鳥仔的台灣話。
+Uī-tio̍h hōo ta-ke jīn-bat tsiáu-á ê Tâi-oân-ōe.
 
+我整理了這個網站，予大家方便找鳥仔的台語名。
+Guá	tsíng-lí tsit-ê bāng-tsām，hōo ta-ke hong-piān tshuē tsiáu-á ê Tâi-gí miâ.
 
-Chit-ê bāng-tsām sī	guá ê IG: "tsiáu-á ê miâ" ê bûn-jī pán-pún, ū-ê tsiáu-á miâ sī guá tshìn-tshái hō ê.
+希望會當佇熟似鳥仔的時陣，嘛有越來越多人使用這個漸漸消失的語言。
+Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú tsuē lâng sú-iōng tsit-ê	tsiām-tsiām	siau-sit ê gí-giân.
 
+> 這個網站是我出去看鳥仔紀錄的 IG「鳥仔 ê 名」的文字版，有的鳥仔是我凊彩號的喔。
+> Tsit-ê bāng-tsām sī guá tshut-khì khuànn tsiáu-á kì-lo̍k	ê IG "tsiáu-á ê miâ" ê bûn-jī pán-pún, ū-ê tsiáu-á miâ sī guá tshìn-tshái hō ê --ooh.
+
+---
 
 - [【Chinese Egret 唐白鷺】](https://www.instagram.com/p/CeiIAp9Pq2i/) -【白翎鷥】pe̍h-līng-si。
 - [【冠羽畫眉】Taiwan Yuhina](https://www.instagram.com/p/Cm0uK0EvTnw/) -【尖頭仔】tsiam-thâu-á、【花眉仔】hue-bî-á、【冠羽畫眉】kuan-ú-uē-bâi。
@@ -16,9 +24,12 @@ Chit-ê bāng-tsām sī	guá ê IG: "tsiáu-á ê miâ" ê bûn-jī pán-pún, �
 - [【大水薙鳥】Streaked Shearwater](https://www.instagram.com/p/CmoL9gAP0O8/) -【海鳥】hái-tsiáu、【大水薙鳥】tuā-tsuí-thì-tsiáu。
 - [【大紅鶴】Greater Flamingo](https://www.instagram.com/p/CkWGg5WP9CO/) -【大紅鶴】tuā-âng-ho̍h。
 - [【小卷尾】Bronzed Drongo](https://www.instagram.com/p/Cq8W9RuPR0-/) -【山烏鶖】suann-oo-tshiu。
+- [【小啄木】Gray-capped Pygmy Woodpecker](https://www.instagram.com/p/CYt9BvZP1oY/) -【啄樹鳥】tok-tshiū-tsiáu、【細隻ê啄樹鳥】sè chiah tok-chhiū-chiáu。
+- [【小彎嘴】Taiwan Scimitar-Babbler](https://www.instagram.com/p/CXEK7PLPQ27/) -【竹跤花眉】tik-kha hue-bî、【花眉舅仔】hue-bî kū-á、【花眉仔】hue-bî-á/hua-bî-á。
 - [【小椋鳥】Chestnut-cheeked Starling](https://www.instagram.com/p/Csyw3vax0Km/) -【椋鳥】liông-tsiáu、【細隻椋鳥】sè tsiah liông-tsiáu。
 - [【小濱鷸】Little Stint](https://www.instagram.com/p/Cr8hvSixdT1/) - 【濱鷸】pin-u̍t、【細隻濱鷸】sè-tsiah-pin-u̍t、【水尖仔】tsúi-tsiam-á、【海滑溜仔】hái-ku̍t-liu-á。
 - [【小燕鷗】Little Tern](https://www.instagram.com/p/Ce_SPOKPyvG/) -【海燕仔】hái-ìnn-á、【丁香鳥】ting-hiunn-tsiáu。
+- [【小白鶴】Siberian Crane](https://www.instagram.com/p/CYh9BmLPKJO/) -【白鶴】pe̍h-ho̍h。
 - [【山紅頭】Rufous-capped Babbler](https://www.instagram.com/p/CmtzGiYvaFf/) -【紅頭穗鶥】âng-thâu-suī-bâi、【山紅頭】suann-âng-thâu。
 - [【山麻雀】Russet Sparrow](https://www.instagram.com/p/CgHAFecvH-R/) -【山頂ê粟鳥仔】suann-tíng ê tshik-tsiáu-á、【穿紅衫ê粟鳥仔】tshīng âng-sann ê tshik-tsiáu-á、【紅頭毛ê粟鳥仔】âng-thâu-mn̂g ê tshik-tsiáu-á。
 - [【岩鷺】Pacific Reef-Heron](https://www.instagram.com/p/CixgFgCPrgi/) -【烏翎鷥】oo-līng-si。
@@ -27,10 +38,12 @@ Chit-ê bāng-tsām sī	guá ê IG: "tsiáu-á ê miâ" ê bûn-jī pán-pún, �
 - [【戴勝】Eurasian Hoopoe](https://www.instagram.com/p/CZV9qqKvwQx/) -【墓坑鳥】bōng-khenn-tsiáu、【戴勝】tì-sìng。
 - [【斯氏繡眼】Swinhoe's White-eye](https://www.instagram.com/p/CkqjSK4vZYx/) -【青笛仔】tshenn-thî-á。
 - [【日本樹鶯】Japanese Bush Warbler](https://www.instagram.com/p/CtRiGfXPFuV/) -【日本樹鶯】Ji̍t-pún tshiū-ing。
+- [【朱鸝】Maroon Oriole](https://www.instagram.com/p/CYmPuQmPGpe/) -【紅鶯】âng-ing。
 - [【東方蜂鷹】Oriental Honey-buzzard](https://www.instagram.com/p/Ci0dKQaPaqI/) -【蜂鷹】phang-ing、【食蜂鷹】tsia̍h-phang-ing。
 - [【樹鵲】Gray Treepie](https://www.instagram.com/p/CgGtX54P8Ic/) -【咖咖仔】ka-ka-á、【咖咖叫的鳥】ka-ka-kiò ê tsiáu-á。
 - [【歐洲椋鳥】European Starling](https://www.instagram.com/p/CmCDJq_vDon/) -【白點仔】pe̍h-tiám-á、【歐洲椋鳥】au-tsiu liông-tsiáu。
 - [【洋燕】Pacific Swallow](https://www.instagram.com/p/CgZF3DevFML/) -【燕仔】ìnn-á。
+- [【灰喉山椒鳥】Gray-chinned Minivet](https://www.instagram.com/p/CYpOcexhZFz/)-【戲班仔】Hì-pan-á。
 - [【灰澤鵟】Hen Harrier](https://www.instagram.com/p/Ck3fhNEvGv6/) -【湳仔鷹】làm-á-ing。
 - [【灰腳秧雞】Slaty-legged Crake](https://www.instagram.com/p/CnjSA1IvJ5u/) -【秧雞】iong-kue、【殕跤秧雞】phú-kha-iong-kue。
 - [【灰頭椋鳥】Chestnut-tailed Starling](https://www.instagram.com/p/Crsd8aBRAAl/) -【椋鳥】liông-tsiáu、【殕頭椋鳥】phú-thâu liông-tsiáu、【殕色頭个椋鳥】phú-sik-thâu ê liông-tsiáu、【鳥鼠仔色个椋鳥】niáu-tshí-á-sik ê liông-tsiáu、【栗子色尾个椋鳥】la̍t-tsí-sik bué ê liông-tsiáu。
@@ -72,6 +85,7 @@ Chit-ê bāng-tsām sī	guá ê IG: "tsiáu-á ê miâ" ê bûn-jī pán-pún, �
 - [【高蹺鴴】Black-winged Stilt](https://www.instagram.com/siansiansu/) -【躼跤仔】lò-kha-á。
 - [【鳳頭燕鷗】Great Crested Tern](https://www.instagram.com/p/Cf4cyiFP0mD/) -【海鷗】ka-mo-me、【海鳥】hái-tsiáu、【海雞母】hái-ke-bó、【海燕仔】hái-ìnn-á、【丁香鳥】ting-hiunn-tsiáu。
 - [【鴻雁】Swan Goose](https://www.instagram.com/p/CZKHKvjvw5d/) -【鴻雁】hông-gān、【野鵝】iá-gô、【海鵝】hái-gô。
+- [【鵂鶹】Collared Owlet](https://www.instagram.com/p/CY4NkEhP5bQ/) -【鵂鶹】hiu-liû、【貓頭鳥】niau-thâu-tsiáu。
 - [【鵲鴨】Common Goldeneye](https://www.instagram.com/p/Cl37GiWvtUT/) -【金眼鴨】kim-gán-ah、【金眼仔】kim-gán-á、【水鴨】tsuí-ah。
 - [【鷹斑鷸】Wood Sandpiper](https://www.instagram.com/p/CiQW-vDvjOp/) -【水尖仔】Tsúi-tsiam-á、【海滑溜仔】hái-ku̍t-liu-á。
 - [【鸕鶿】Great Cormorant](https://www.instagram.com/p/CZj5j9WP7d-/) -【鸕鶿】lôo-tsî。
