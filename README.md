@@ -102,7 +102,6 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 - [【黃喉鵐】Yellow-throated Bunting](https://www.instagram.com/p/ClGCBgLPzUg/) -【黃喉仔】n̂g-âu-á、【黃喉鵐】n̂g-âu-bû。
 - [【黃頭鷺】Cattle Egret](https://www.instagram.com/p/CipiRfcPAAI/) -【白翎鷥】pe̍h-līng-si、【黃頭鷺】n̂g-thâu-lōo、【翎鷥】līng-si。
 - [【黑冠麻鷺】Malayan Night-Heron]() -【山暗光】suann-àm-kong。
-- [【黑喉鴝】Amur Stonechat](https://www.instagram.com/p/Cku2RYNvmRI/) -【烏喉仔】oo-âu-á。
 
 ---
 
@@ -116,19 +115,15 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 - 烏面抐桮 oo-bīn-lā-pue
 - 飯匙鵝 puīnn-sî-gô。
 
-華文 / 英文
-
-- 黑面琵鷺 Black-faced Spoonbill
-
 台文解釋
 
 - 黑面琵鷺會使號做`烏面抐桮 oo-bīn-lā-pue`，當然也會使直接號做`抐桮 lā-pue`。
-- 飯匙鵝是宜蘭人 ê 說法，大部分抑是講`烏面抐桮` ê 人較濟。
+- 飯匙鵝佇宜蘭較濟人按呢講，大部分抑是講`烏面抐桮` ê 人較濟。
 
 白話字解釋
 
 - hei-miàn-pí-lù ē-sái hō-tsò `oo-bīn-lā-pue`, tong-jiân iā-ē-sái ti̍t-tsiap hō-tsò `lā-pue`.
-- `puīnn-sî-gô` sī Gî-lân lâng ê kóng-huat, tuā-pōo-hūn ia̍h-sī kóng `oo-bīn-lā-pue` ê lâng kà tsē.
+- `puīnn-sî-gô` tī Gî-lân kà-tsē lâng án-ne kóng, tuā-pōo-hūn ia̍h-sī kóng `oo-bīn-lā-pue` ê lâng kà-tsē.
 
 ## 鴴科 hîng-kho
 
@@ -144,10 +139,6 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 - 金眼 kim-gán
 - 金眼鴴 kim-gán-hîng
 
-華文 / 英文
-
-- 小環頸鴴 Little Ringed Plover
-
 台文解釋
 
 - 一般鷸科佮鴴科 ê 鳥 á 攏會使號做`水尖仔 tsúi-tsiam-á` 抑是`海滑溜仔 hái-ku̍t-liu-á`。
@@ -159,3 +150,28 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 - it-puann u̍t-kho kap hîng-kho ê tsiáu-á lóng ē-sái hō-tsò `tsúi-tsiam-á` ia̍h-sī `hái-ku̍t-liu-á`.
 - nā-sī tsham-khó i̍t-kiú-tshit-sann Embree tâi-ing sû-tián, ē-tàng hō-tsò `sió-hîng` ia̍h-sī `sió-huân-kīng-hîng`, tong-jiân iā-ē-sái ti̍t-tsiap hō-tsò `hîng` .
 - nā-sī i-kì i ê guā-kuan ē-sái Ing-gí miâ "Ringed" tshing-hoo. hō-tsò `kim-gán`, `kim-gán-hîng`.
+
+## 鶲科 ong-kho
+
+### [黑喉鴝 Amur Stonechat](https://www.instagram.com/p/Cku2RYNvmRI/)
+
+台文 / 白話字
+
+- 烏喉仔 oo-âu-á
+- 烏喉鴝 oo-âu-kî
+
+台文解釋
+
+- 這隻佇辭典揣無伊 ê 稱呼，毋過若依據伊 ê 外觀，我會叫伊`烏喉仔 oo-âu-á`。
+- 因為是外來語 ê 關係，若依據伊 ê 華文名，會當直接號做 `烏喉鴝 oo-âu-kî`。
+
+白話字解釋
+
+- tse tsiah tī sû-tián tshuē bô i ê tshing-hoo, m̄-koh nā i-kì i ê guā-kuan, guá ē kiò i `oo-âu-á`.
+- in-uī sī guā-lâi-gí ê kuan-hē, nā i-kì i ê Huâ-bûn miâ, ē-tàng ti̍t-tsiap hō-tsò `oo-âu-kî`.
+
+---
+
+## 標籤 phiau-tshiam
+
+#鳥 #野鳥 #野鳥写真 #野鳥観察 #野鳥撮影 #自然 #台語 #台文 #台灣話 #taiwan #sonyrx10iv #sonyrxmoments #sony #sonytaiwan #sonyphotography #bird #birds #birding #birdstagram #birdwatching #birdphotography #nature #naturelovers #naturephotography #nuts_about_birds
