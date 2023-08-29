@@ -6,13 +6,11 @@
 
 Uī-tio̍h hōo ta-ke jīn-bat tsiáu-á ê Tâi-oân-ōe.
 
-&nbsp;
 
 我整理了這個網站，予大家方便找鳥仔的台語名。
 
 Guá	tsíng-lí tsit-ê bāng-tsām，hōo ta-ke hong-piān tshuē tsiáu-á ê Tâi-gí miâ.
 
-&nbsp;
 
 希望會當佇熟似鳥仔的時陣，嘛有越來越濟人使用這個漸漸消失的語言。
 
@@ -105,9 +103,34 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 - [【黃頭鷺】Cattle Egret](https://www.instagram.com/p/CipiRfcPAAI/) -【白翎鷥】pe̍h-līng-si、【黃頭鷺】n̂g-thâu-lōo、【翎鷥】līng-si。
 - [【黑冠麻鷺】Malayan Night-Heron]() -【山暗光】suann-àm-kong。
 - [【黑喉鴝】Amur Stonechat](https://www.instagram.com/p/Cku2RYNvmRI/) -【烏喉仔】oo-âu-á。
-- [【黑面琵鷺】Black-faced Spoonbill](https://www.instagram.com/p/CebV0O6vKxz/) -【抐桮】lā-pue、【烏面抐桮】oo-bīn-lā-pue、【飯匙鵝】puīnn-sî-gô。
 
 ---
+
+## 䴉科 hiân--kho
+
+### [黑面琵鷺 Black-faced Spoonbill](https://www.instagram.com/p/CebV0O6vKxz/)
+
+台文 / 白話字
+
+- 抐桮 lā-pue
+- 烏面抐桮 oo-bīn-lā-pue
+- 飯匙鵝 puīnn-sî-gô。
+
+華文 / 英文
+
+- 黑面琵鷺 Black-faced Spoonbill
+
+台文解釋
+
+- 黑面琵鷺會使號做`烏面抐桮 oo-bīn-lā-pue`，當然也會使直接號做`抐桮 lā-pue`。
+- 飯匙鵝是宜蘭人 ê 說法，大部分抑是講`烏面抐桮` ê 人較濟。
+
+白話字解釋
+
+- hei-miàn-pí-lù ē-sái hō-tsò `oo-bīn-lā-pue`, tong-jiân iā-ē-sái ti̍t-tsiap hō-tsò `lā-pue`.
+- `puīnn-sî-gô` sī Gî-lân lâng ê kóng-huat, tuā-pōo-hūn ia̍h-sī kóng `oo-bīn-lā-pue` ê lâng kà tsē.
+
+## 鴴科 hîng-kho
 
 ### [小環頸鴴 Little Ringed Plover](https://www.instagram.com/p/CwZ7A2pxXgI/)
 
@@ -123,7 +146,7 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 
 華文 / 英文
 
-- 【小環頸鴴】Little Ringed Plover
+- 小環頸鴴 Little Ringed Plover
 
 台文解釋
 
@@ -133,6 +156,6 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 
 白話字解釋
 
-- It-puann u̍t-kho kap hîng-kho ê tsiáu-á lóng ē-sái hō-tsò `tsúi-tsiam-á` ia̍h-sī `hái-ku̍t-liu-á`.
-- Nā-sī tsham-khó i̍t-kiú-tshit-sann Embree tâi-ing sû-tián, ē-tàng hō-tsò `sió-hîng` ia̍h-sī `sió-huân-kīng-hîng`, tong-jiân iā-ē-sái ti̍t-tsiap hō-tsò `hîng` .
+- it-puann u̍t-kho kap hîng-kho ê tsiáu-á lóng ē-sái hō-tsò `tsúi-tsiam-á` ia̍h-sī `hái-ku̍t-liu-á`.
+- nā-sī tsham-khó i̍t-kiú-tshit-sann Embree tâi-ing sû-tián, ē-tàng hō-tsò `sió-hîng` ia̍h-sī `sió-huân-kīng-hîng`, tong-jiân iā-ē-sái ti̍t-tsiap hō-tsò `hîng` .
 - nā-sī i-kì i ê guā-kuan ē-sái Ing-gí miâ "Ringed" tshing-hoo. hō-tsò `kim-gán`, `kim-gán-hîng`.
