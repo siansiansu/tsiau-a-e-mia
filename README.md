@@ -18,8 +18,6 @@ Guá	tsíng-lí tsit-ê bāng-tsām，hōo ta-ke hong-piān tshuē tsiáu-á ê 
 
 Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú tsuē lâng sú-iōng tsit-ê	tsiām-tsiām	siau-sit ê gí-giân.
 
-&nbsp;
-
 ---
 
 - [【冠八哥】Crested Myna]() -【鵁鴒】ka-līng、【八哥】pat-ko、【冠鵁鴒】kuàn-ka-līng【冠八哥】kuàn-pat-ko。
@@ -108,3 +106,33 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 - [【黑冠麻鷺】Malayan Night-Heron]() -【山暗光】suann-àm-kong。
 - [【黑喉鴝】Amur Stonechat](https://www.instagram.com/p/Cku2RYNvmRI/) -【烏喉仔】oo-âu-á。
 - [【黑面琵鷺】Black-faced Spoonbill](https://www.instagram.com/p/CebV0O6vKxz/) -【抐桮】lā-pue、【烏面抐桮】oo-bīn-lā-pue、【飯匙鵝】puīnn-sî-gô。
+
+---
+
+### [小環頸鴴 Little Ringed Plover](https://www.instagram.com/p/CwZ7A2pxXgI/)
+
+台文 / 白話字
+
+- 水尖仔 tsúi-tsiam-á
+- 海滑溜仔 hái-ku̍t-liu-á
+- 鴴 hîng
+- 小鴴 sió-hîng
+- 小環頸鴴 sió-huân-kīng-hîng
+- 金眼 kim-gán
+- 金眼鴴 kim-gán-hîng
+
+華文 / 英文
+
+- 【小環頸鴴】Little Ringed Plover
+
+台文解釋
+
+- 一般鷸科佮鴴科 ê 鳥 á 攏會使號做`水尖仔 tsúi-tsiam-á` 抑是`海滑溜仔 hái-ku̍t-liu-á`。
+- 若是參考 1973 Embree 台英辭典，會當號做 `小鴴 sió-hîng` 抑是`小環頸鴴 sió-huân-kīng-hîng`，當然也會使直接號做`鴴`。
+- 若是依據伊 ê 外觀抑是英語名「Ringed」稱呼，號做 `金眼 kim-gán`、`金眼鴴 kim-gán-hîng`。
+
+白話字解釋
+
+- It-puann u̍t-kho kap hîng-kho ê tsiáu-á lóng ē-sái hō-tsò `tsúi-tsiam-á` ia̍h-sī `hái-ku̍t-liu-á`.
+- Nā-sī tsham-khó i̍t-kiú-tshit-sann Embree tâi-ing sû-tián, ē-tàng hō-tsò `sió-hîng` ia̍h-sī `sió-huân-kīng-hîng`, tong-jiân iā-ē-sái ti̍t-tsiap hō-tsò `hîng` .
+- nā-sī i-kì i ê guā-kuan ē-sái Ing-gí miâ "Ringed" tshing-hoo. hō-tsò `kim-gán`, `kim-gán-hîng`.
