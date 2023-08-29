@@ -1,4 +1,4 @@
-# 鳥仔 ê 名 - 文字版
+# [鳥仔 ê 名 - 文字版](https://siansiansu.github.io/tsiau-a-e-mia/)
 
 ![image](https://user-images.githubusercontent.com/33391637/235700763-b3922fc6-5cbb-47e7-9de7-bfda3ad28e0d.png)
 
@@ -19,10 +19,6 @@ Guá	tsíng-lí tsit-ê bāng-tsām，hōo ta-ke hong-piān tshuē tsiáu-á ê 
 Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú tsuē lâng sú-iōng tsit-ê	tsiām-tsiām	siau-sit ê gí-giân.
 
 &nbsp;
-
-> 這個網站是我出去看鳥仔紀錄的 IG「[鳥仔 ê 名](https://www.instagram.com/siansiansu/)」的文字版，有的鳥仔名是我凊彩號的喔。
-> 
-> Tsit-ê bāng-tsām sī guá tshut-khì khuànn tsiáu-á kì-lo̍k	ê IG "tsiáu-á ê miâ" ê bûn-jī pán-pún, ū-ê tsiáu-á miâ sī guá tshìn-tshái hō ê --ooh.
 
 ---
 
