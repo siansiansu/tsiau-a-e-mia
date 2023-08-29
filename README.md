@@ -118,12 +118,12 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 台文解釋
 
 - 黑面琵鷺會使號做`烏面抐桮 oo-bīn-lā-pue`，當然也會使直接號做`抐桮 lā-pue`。
-- 飯匙鵝佇宜蘭較濟人按呢講，大部分抑是講`烏面抐桮` ê 人較濟。
+- `飯匙鵝 puīnn-sî-gô`佇宜蘭較濟人按呢講，大部分講`烏面抐桮` ê 人較濟。
 
 白話字解釋
 
 - hei-miàn-pí-lù ē-sái hō-tsò `oo-bīn-lā-pue`, tong-jiân iā-ē-sái ti̍t-tsiap hō-tsò `lā-pue`.
-- `puīnn-sî-gô` tī Gî-lân kà-tsē lâng án-ne kóng, tuā-pōo-hūn ia̍h-sī kóng `oo-bīn-lā-pue` ê lâng kà-tsē.
+- `puīnn-sî-gô` tī Gî-lân kà-tsē lâng án-ne kóng, tuā-pōo-hūn kóng `oo-bīn-lā-pue` ê lâng kà-tsē.
 
 ## 鴴科 hîng-kho
 
