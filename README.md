@@ -99,8 +99,6 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 - [【鷹斑鷸】Wood Sandpiper](https://www.instagram.com/p/CiQW-vDvjOp/) -【水尖仔】Tsúi-tsiam-á、【海滑溜仔】hái-ku̍t-liu-á、【濱鷸】pin-u̍t、【鷹斑鷸】ing-pan-u̍t。
 - [【鸕鶿】Great Cormorant](https://www.instagram.com/p/CZj5j9WP7d-/) -【鸕鶿】lôo-tsî、【烏魚郎】oo-hî-lông、【老仔】lāu-á。
 - [【麻雀】Eurasian Tree Sparrow](https://www.instagram.com/p/CloZmg3v-V9/) -【厝角鳥仔】tshù-kak-tsiáu-á、【粟鳥仔】tshik-tsiáu-á、【麻雀】muâ-tshiok、【雀鳥仔】tshiok-tsiáu-á。
-- [【黃喉鵐】Yellow-throated Bunting](https://www.instagram.com/p/ClGCBgLPzUg/) -【黃喉仔】n̂g-âu-á、【黃喉鵐】n̂g-âu-bû。
-- [【黃頭鷺】Cattle Egret]() -【白翎鷥】pe̍h-līng-si、【黃頭鷺】n̂g-thâu-lōo、【翎鷥】līng-si。
 
 ---
 
@@ -203,13 +201,33 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 
 台文解釋
 
-- 這隻佇辭典揣無伊 ê 稱呼，毋過若依據伊 ê 外觀，我會叫伊`烏喉仔 oo-âu-á`。
+- 這隻佇辭典揣無伊 ê 名，毋過若依據伊 ê 外觀，我會叫伊`烏喉仔 oo-âu-á`。
 - 因為是外來語 ê 關係，若依據伊 ê 華文名，會當直接號做`烏喉鴝 oo-âu-kî`。
 
 白話字解釋
 
-- tse tsiah tī sû-tián tshuē bô i ê tshing-hoo, m̄-koh nā i-kì i ê guā-kuan, guá ē kiò i `oo-âu-á`.
+- tse tsiah tī sû-tián tshuē bô i ê miâ, m̄-koh nā i-kì i ê guā-kuan, guá ē kiò i `oo-âu-á`.
 - in-uī sī guā-lâi-gí ê kuan-hē, nā i-kì i ê Huâ-bûn miâ, ē-tàng ti̍t-tsiap hō-tsò `oo-âu-kî`.
+
+
+## 鵐科 bû-kho
+
+## [黃喉鵐 Yellow-throated Bunting](https://www.instagram.com/p/ClGCBgLPzUg/)
+
+台文 / 白話字
+
+- 黃喉仔 n̂g-âu-á
+- 黃喉鵐 n̂g-âu-bû
+
+台文解釋
+
+- 這隻佇辭典揣無伊 ê 名，毋過若依據伊 ê 外觀，我會叫伊`黃喉仔 n̂g-âu-á`。
+- 因為是外來語 ê 關係，若依據伊 ê 華文名，會當直接號做`黃喉鵐 n̂g-âu-bû`。
+
+白話字解釋
+
+- tse tsiah tī sû-tián tshuē bô i ê miâ, m̄-koh nā i-kì i ê guā-kuan, guá ē kiò i `n̂g-âu-á`.
+- in-uī sī guā-lâi-gí ê kuan-hē, nā i-kì i ê Huâ-bûn miâ, ē-tàng ti̍t-tsiap hō-tsò `n̂g-âu-bû`.
 
 ---
 
