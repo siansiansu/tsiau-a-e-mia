@@ -100,8 +100,7 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 - [【鸕鶿】Great Cormorant](https://www.instagram.com/p/CZj5j9WP7d-/) -【鸕鶿】lôo-tsî、【烏魚郎】oo-hî-lông、【老仔】lāu-á。
 - [【麻雀】Eurasian Tree Sparrow](https://www.instagram.com/p/CloZmg3v-V9/) -【厝角鳥仔】tshù-kak-tsiáu-á、【粟鳥仔】tshik-tsiáu-á、【麻雀】muâ-tshiok、【雀鳥仔】tshiok-tsiáu-á。
 - [【黃喉鵐】Yellow-throated Bunting](https://www.instagram.com/p/ClGCBgLPzUg/) -【黃喉仔】n̂g-âu-á、【黃喉鵐】n̂g-âu-bû。
-- [【黃頭鷺】Cattle Egret](https://www.instagram.com/p/CipiRfcPAAI/) -【白翎鷥】pe̍h-līng-si、【黃頭鷺】n̂g-thâu-lōo、【翎鷥】līng-si。
-- [【黑冠麻鷺】Malayan Night-Heron]() -【山暗光】suann-àm-kong。
+- [【黃頭鷺】Cattle Egret]() -【白翎鷥】pe̍h-līng-si、【黃頭鷺】n̂g-thâu-lōo、【翎鷥】līng-si。
 
 ---
 
@@ -123,6 +122,29 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 
 - hei-guan-má-lù ê Tâi-uân-uē hō-tsò `suann-àm-kong`.
 - ia̍h-sī ti̍t-tsiap hō-tsò `oo-kuan-muâ-lōo`.
+
+### [黃頭鷺 Cattle Egret](https://www.instagram.com/p/CipiRfcPAAI/)
+
+台文 / 白話字
+
+- 翎鷥 līng-si
+- 白鷺 pe̍h-lōo
+- 鷺仔 lōo-á
+- 白鷺仔 pe̍h-lōo-á
+- 白翎鷥 pe̍h-līng-si
+- 黃頭鷺 n̂g-thâu-lōo
+
+台文解釋
+
+- 一般鷺科 ê 台灣話攏會使號做`翎鷥 līng-si`佮`白翎鷥 pe̍h-līng-si`。
+- 嘛會當叫做`白鷺 pe̍h-lōo`、`鷺仔 lōo-á`、抑是`白鷺仔 pe̍h-lōo-á`。
+- 依據伊 ê 華語名，叫做`黃頭鷺 n̂g-thâu-lōo`嘛會通。
+
+白話字解釋
+
+- it-puann lōo-kho ê Tâi-uân-uē lóng ē-sái hō-tsò `līng-si` kap `pe̍h-līng-si`.
+- mà-ē-tàng kiò-tsò `pe̍h-lōo`, `lōo-á` ia̍h-sī `pe̍h-lōo-á`.
+- i-kì i ê Huâ-gí-miâ, kiò-tsò `n̂g-thâu-lōo` mà-ē-thong.
 
 ## 䴉科 hiân-kho
 
@@ -160,8 +182,8 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 
 台文解釋
 
-- 一般鷸科佮鴴科 ê 鳥 á 攏會使號做`水尖仔 tsúi-tsiam-á` 抑是`海滑溜仔 hái-ku̍t-liu-á`。
-- 若是參考 1973 Embree 台英辭典，會當號做 `小鴴 sió-hîng` 抑是`小環頸鴴 sió-huân-kīng-hîng`，當然也會使直接號做`鴴`。
+- 一般鷸科佮鴴科 ê 鳥 á 攏會使號做`水尖仔 tsúi-tsiam-á`抑是`海滑溜仔 hái-ku̍t-liu-á`。
+- 若是參考 1973 Embree 台英辭典，會當號做`小鴴 sió-hîng`抑是`小環頸鴴 sió-huân-kīng-hîng`，當然也會使直接號做`鴴`。
 - 若是依據伊 ê 外觀抑是英語名「Ringed」稱呼，號做 `金眼 kim-gán`、`金眼鴴 kim-gán-hîng`。
 
 白話字解釋
