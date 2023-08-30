@@ -278,4 +278,6 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 
 ---
 
+## 標籤 phiau-tshiam
+
 #鳥 #野鳥 #野鳥写真 #野鳥観察 #野鳥撮影 #自然 #台語 #台文 #台話 #台灣 #臺羅 #台灣話 #台灣語 #白話字 #台語羅馬字 #pe̍h-uē-jī #tâi-lô #tâi-uē #tâi-uân-uē #tâi-gí #tâi-uân-gí #taiwan #sonyrx10iv #sonyrxmoments #sony #sonytaiwan #sonyphotography #bird #birds #birding #birdstagram #birdwatching #birdphotography #nature #naturelovers #naturephotography #nuts_about_birds
