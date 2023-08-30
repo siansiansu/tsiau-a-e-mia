@@ -105,7 +105,26 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 
 ---
 
-## 䴉科 hiân--kho
+## 鷺科 lōo-kho
+
+### [黑冠麻鷺 Malayan Night-Heron](https://ebird.org/species/manher1)
+
+台文 / 白話字
+
+- 山暗光 suann-àm-kong
+- 烏冠麻鷺 oo-kuan-muâ-lōo
+
+台文解釋
+
+- 黑冠麻鷺台灣話號做`山暗光 suann-àm-kong`。
+- 抑是直接號做`烏冠麻鷺 oo-kuan-muâ-lōo`。
+
+白話字解釋
+
+- hei-guan-má-lù ê Tâi-uân-uē hō-tsò `suann-àm-kong`.
+- ia̍h-sī ti̍t-tsiap hō-tsò `oo-kuan-muâ-lōo`.
+
+## 䴉科 hiân-kho
 
 ### [黑面琵鷺 Black-faced Spoonbill](https://www.instagram.com/p/CebV0O6vKxz/)
 
@@ -113,7 +132,7 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 
 - 抐桮 lā-pue
 - 烏面抐桮 oo-bīn-lā-pue
-- 飯匙鵝 puīnn-sî-gô。
+- 飯匙鵝 puīnn-sî-gô
 
 台文解釋
 
@@ -163,7 +182,7 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 台文解釋
 
 - 這隻佇辭典揣無伊 ê 稱呼，毋過若依據伊 ê 外觀，我會叫伊`烏喉仔 oo-âu-á`。
-- 因為是外來語 ê 關係，若依據伊 ê 華文名，會當直接號做 `烏喉鴝 oo-âu-kî`。
+- 因為是外來語 ê 關係，若依據伊 ê 華文名，會當直接號做`烏喉鴝 oo-âu-kî`。
 
 白話字解釋
 
