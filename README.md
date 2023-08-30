@@ -1,7 +1,5 @@
 # [鳥仔 ê 名 - 文字版](https://siansiansu.github.io/tsiau-a-e-mia/)
 
-#鳥 #野鳥 #野鳥写真 #野鳥観察 #野鳥撮影 #自然 #台語 #台文 #台灣話 #taiwan #sonyrx10iv #sonyrxmoments #sony #sonytaiwan #sonyphotography #bird #birds #birding #birdstagram #birdwatching #birdphotography #nature #naturelovers #naturephotography #nuts_about_birds
-
 ![image](https://user-images.githubusercontent.com/33391637/235700763-b3922fc6-5cbb-47e7-9de7-bfda3ad28e0d.png)
 
 為著予大家認捌鳥仔的台灣話。
@@ -277,3 +275,7 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 - má-cyuè ê Tâi-gí-miâ ē-tàng kiò-tsò `tshù-kak-tsiáu-á`, `tshik-tsiáu-á`, `tshiok-tsiáu-á` kap `tshù-tsiáu-á`.
 - it-puann-lâi-kóng bē ti̍t-tsiap huan-i̍k, in-uī muâ-tshiok kap má-jiàng ê Tâi-gí-miâ tâng-im.
 - nā-beh ti̍t-tsiap huan-i̍k, ē-tàng tsham-khó i ê Ing-gí-miâ `Eurasian Tree Sparrow` hō-tsò `tshiū-muâ-tshiok` ia̍h-sī `Au-tsiu-tshiū-muâ-tshiok`.
+
+---
+
+#鳥 #野鳥 #野鳥写真 #野鳥観察 #野鳥撮影 #自然 #台語 #台文 #台話 #台灣 #臺羅 #台灣話 #台灣語 #白話字 #台語羅馬字 #pe̍h-uē-jī #tâi-lô #tâi-uē #tâi-uân-uē #tâi-gí #tâi-uân-gí #taiwan #sonyrx10iv #sonyrxmoments #sony #sonytaiwan #sonyphotography #bird #birds #birding #birdstagram #birdwatching #birdphotography #nature #naturelovers #naturephotography #nuts_about_birds
