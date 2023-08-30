@@ -37,7 +37,6 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 - [【小燕鷗】Little Tern](https://www.instagram.com/p/Ce_SPOKPyvG/) -【海燕仔】hái-ìnn-á、【丁香鳥】ting-hiunn-tsiáu、【燕鷗】iàn-oo、【細隻燕鷗】sè-tsiah-iàn-oo。
 - [【小白鶴】Siberian Crane](https://www.instagram.com/p/CYh9BmLPKJO/) -【白鶴】pe̍h-ho̍h、【細隻白鶴】sè-tsiah-pe̍h-ho̍h。
 - [【山紅頭】Rufous-capped Babbler](https://www.instagram.com/p/CmtzGiYvaFf/) -【紅頭穗鶥】âng-thâu-suī-bâi、【山紅頭】suann-âng-thâu。
-- [【山麻雀】Russet Sparrow](https://www.instagram.com/p/CgHAFecvH-R/) -【山頂 ê 粟鳥仔】suann-tíng ê tshik-tsiáu-á、【穿紅衫 ê 粟鳥仔】tshīng âng-sann ê tshik-tsiáu-á、【紅頭毛 ê 粟鳥仔】âng-thâu-mn̂g ê tshik-tsiáu-á、【山麻雀】suann-môa-chhiok、【粟鳥仔】tshik-tsiáu-á、【厝鳥仔】tshù-tsiáu-á、【厝角鳥仔】tshù-kak-tsiáu-á。
 - [【岩鷺】Pacific Reef-Heron](https://www.instagram.com/p/CixgFgCPrgi/) -【烏翎鷥】oo-līng-si、【翎鷥】līng-si。
 - [【彩鷸】Greater Painted-Snipe](https://www.instagram.com/p/ChfPVWpv5C_/) -【骨簪仔】kut-tsiam-á、【塗礱鉤仔】Thôo-lâng-kau-á。
 - [【愛情鳥、小鸚】Lovebird](https://www.instagram.com/p/CrGa0aoxcIq/) -【愛情鳥】ài-tsîng tsiáu、【細鸚】sè-ing。
@@ -98,7 +97,6 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 - [【鵲鴨】Common Goldeneye](https://www.instagram.com/p/Cl37GiWvtUT/) -【金眼鴨】kim-gán-ah、【金眼仔】kim-gán-á、【水鴨】tsuí-ah。
 - [【鷹斑鷸】Wood Sandpiper](https://www.instagram.com/p/CiQW-vDvjOp/) -【水尖仔】Tsúi-tsiam-á、【海滑溜仔】hái-ku̍t-liu-á、【濱鷸】pin-u̍t、【鷹斑鷸】ing-pan-u̍t。
 - [【鸕鶿】Great Cormorant](https://www.instagram.com/p/CZj5j9WP7d-/) -【鸕鶿】lôo-tsî、【烏魚郎】oo-hî-lông、【老仔】lāu-á。
-- [【麻雀】Eurasian Tree Sparrow](https://www.instagram.com/p/CloZmg3v-V9/) -【厝角鳥仔】tshù-kak-tsiáu-á、【粟鳥仔】tshik-tsiáu-á、【麻雀】muâ-tshiok、【雀鳥仔】tshiok-tsiáu-á。
 
 ---
 
@@ -182,12 +180,12 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 
 - 一般鷸科佮鴴科 ê 鳥 á 攏會使號做`水尖仔 tsúi-tsiam-á`抑是`海滑溜仔 hái-ku̍t-liu-á`。
 - 若是參考 1973 Embree 台英辭典，會當號做`小鴴 sió-hîng`抑是`小環頸鴴 sió-huân-kīng-hîng`，當然也會使直接號做`鴴`。
-- 若是依據伊 ê 外觀抑是英語名「Ringed」稱呼，號做 `金眼 kim-gán`、`金眼鴴 kim-gán-hîng`。
+- 若是依據伊 ê 外觀抑是英語名 `Ringed` 稱呼，號做 `金眼 kim-gán`、`金眼鴴 kim-gán-hîng`。
 
 白話字解釋
 
 - it-puann u̍t-kho kap hîng-kho ê tsiáu-á lóng ē-sái hō-tsò `tsúi-tsiam-á` ia̍h-sī `hái-ku̍t-liu-á`.
-- nā-sī tsham-khó i̍t-kiú-tshit-sann Embree tâi-ing sû-tián, ē-tàng hō-tsò `sió-hîng` ia̍h-sī `sió-huân-kīng-hîng`, tong-jiân iā-ē-sái ti̍t-tsiap hō-tsò `hîng` .
+- nā-sī tsham-khó i̍t-kiú-tshit-sann Embree tâi-ing sû-tián, ē-tàng hō-tsò `sió-hîng` ia̍h-sī `sió-huân-kīng-hîng`, tong-jiân iā-ē-sái ti̍t-tsiap hō-tsò `hîng`.
 - nā-sī i-kì i ê guā-kuan ē-sái Ing-gí miâ "Ringed" tshing-hoo. hō-tsò `kim-gán`, `kim-gán-hîng`.
 
 ## 鶲科 ong-kho
@@ -212,7 +210,7 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 
 ## 鵐科 bû-kho
 
-## [黃喉鵐 Yellow-throated Bunting](https://www.instagram.com/p/ClGCBgLPzUg/)
+### [黃喉鵐 Yellow-throated Bunting](https://www.instagram.com/p/ClGCBgLPzUg/)
 
 台文 / 白話字
 
@@ -229,8 +227,55 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 - tse tsiah tī sû-tián tshuē bô i ê miâ, m̄-koh nā i-kì i ê guā-kuan, guá ē kiò i `n̂g-âu-á`.
 - in-uī sī guā-lâi-gí ê kuan-hē, nā i-kì i ê Huâ-bûn miâ, ē-tàng ti̍t-tsiap hō-tsò `n̂g-âu-bû`.
 
+
+## 麻雀科 muâ-tshiok-kho
+
+### [山麻雀 Russet Sparrow](https://www.instagram.com/p/CgHAFecvH-R/)
+
+台文 / 白話字
+
+- 山頂 ê 粟鳥仔 suann-tíng ê tshik-tsiáu-á
+- 穿紅衫 ê 粟鳥仔 tshīng âng-sann ê tshik-tsiáu-á
+- 紅頭毛 ê 粟鳥仔 âng-thâu-mn̂g ê tshik-tsiáu-á
+- 厝角鳥仔 tshù-kak-tsiáu-á
+- 粟鳥仔 tshik-tsiáu-á
+- 雀鳥仔 tshiok-tsiáu-á
+- 厝鳥仔 tshù-tsiáu-á
+- 山麻雀 suann-môa-chhiok
+
+台文解釋
+
+- 辭典揣無山麻雀 ê 台語名，毋過若依據伊生活 ê 環境佮伊 ê 外觀，我會叫伊`山頂 ê 粟鳥仔 suann-tíng ê tshik-tsiáu-á`、`穿紅衫 ê 粟鳥仔 tshīng âng-sann ê tshik-tsiáu-á`、`紅頭毛 ê 粟鳥仔 âng-thâu-mn̂g ê tshik-tsiáu-á`
+- 當然嘛會當借 `麻雀 Eurasian Tree Sparrow` ê 名，叫做`厝角鳥仔 tshù-kak-tsiáu-á`、`粟鳥仔 tshik-tsiáu-á`、`雀鳥仔 tshiok-tsiáu-á`佮`厝鳥仔 tshù-tsiáu-á`。
+- 若欲直接翻譯，會當參考伊 ê 華語名，號做 `山麻雀`。
+
+白話字解釋
+
+- sû-tián tshuē bô `shan-má-cyuè` ê Tâi-gí-miâ, m̄-koh nā i-kì i senn-ua̍h ê khuân-kíng kap i ê guā-kuan, guá ē kiò i `suann-tíng ê tshik-tsiáu-á`, `tshīng âng-sann ê tshik-tsiáu-á`, `âng-thâu-mn̂g ê tshik-tsiáu-á`.
+- tong-jiân mà-ē-tàng tsioh `Eurasian Tree Sparrow` ê miâ, kiò-tsò `tshù-kak-tsiáu-á`, `tshik-tsiáu-á`, `tshiok-tsiáu-á` kap `tshù-tsiáu-á`.
+- nā-beh ti̍t-tsiap huan-i̍k, ē-tàng tsham-khó i ê Huâ-gí-miâ, hō-tsò `suann-muâ-tshiok`.
+
+### [麻雀 Eurasian Tree Sparrow](https://www.instagram.com/p/CloZmg3v-V9/)
+
+台文 / 白話字
+
+- 厝角鳥仔 tshù-kak-tsiáu-á
+- 粟鳥仔 tshik-tsiáu-á
+- 雀鳥仔 tshiok-tsiáu-á
+- 厝鳥仔 tshù-tsiáu-á
+
+台文解釋
+
+- 麻雀 ê 台語名會當叫做`厝角鳥仔 tshù-kak-tsiáu-á`、`粟鳥仔 tshik-tsiáu-á`、`雀鳥仔 tshiok-tsiáu-á`佮`厝鳥仔 tshù-tsiáu-á`。
+- 一般來講袂直接翻譯，因為`麻雀 muâ-tshiok`佮麻將 ê 台語名同音。
+- 若欲直接翻譯，會當參考伊 ê 英語名 `Eurasian Tree Sparrow` 號做 `樹麻雀 tshiū-muâ-tshiok` 抑是`歐洲樹麻雀 Au-tsiu-tshiū-muâ-tshiok`。
+
+白話字解釋
+
+- má-cyuè ê Tâi-gí-miâ ē-tàng kiò-tsò `tshù-kak-tsiáu-á`, `tshik-tsiáu-á`, `tshiok-tsiáu-á` kap `tshù-tsiáu-á`.
+- it-puann-lâi-kóng bē ti̍t-tsiap huan-i̍k, in-uī muâ-tshiok kap má-jiàng ê Tâi-gí-miâ tâng-im.
+- nā-beh ti̍t-tsiap huan-i̍k, ē-tàng tsham-khó i ê Ing-gí-miâ `Eurasian Tree Sparrow` hō-tsò `tshiū-muâ-tshiok` ia̍h-sī `Au-tsiu-tshiū-muâ-tshiok`.
+
 ---
 
-## 標籤 phiau-tshiam
-
-#鳥 #野鳥 #野鳥写真 #野鳥観察 #野鳥撮影 #自然 #台語 #台文 #台灣話 #taiwan #sonyrx10iv #sonyrxmoments #sony #sonytaiwan #sonyphotography #bird #birds #birding #birdstagram #birdwatching #birdphotography #nature #naturelovers #naturephotography #nuts_about_birds
+#鳥 #野鳥 #野鳥写真 #野鳥観察 #野鳥撮影 #自然 #台語 #台文 #台話 #台灣 #臺羅 #台灣話 #台灣語 #白話字 #台語羅馬字 #pe̍h-uē-jī #tâi-lô #tâi-uē #tâi-uân-uē #tâi-gí #tâi-uân-gí #taiwan #sonyrx10iv #sonyrxmoments #sony #sonytaiwan #sonyphotography #bird #birds #birding #birdstagram #birdwatching #birdphotography #nature #naturelovers #naturephotography #nuts_about_birds
