@@ -1,4 +1,4 @@
-# [鳥仔 ê 名](https://siansiansu.github.io/tsiau-a-e-mia/)
+# 鳥仔 ê 名
 
 <img width="1457" alt="image" src="https://github.com/siansiansu/tsiau-a-e-mia/assets/33391637/53f1aba5-228b-47db-86fb-966fc256bad1">
 
@@ -311,4 +311,4 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 
 ## 標籤 phiau-tshiam
 
-#鳥 #野鳥 #野鳥写真 #野鳥観察 #野鳥撮影 #自然 #台語 #漢羅 #台話 #台灣 #臺羅 #台灣話 #台灣語 #台羅 #台語羅馬字 #pe̍h-uē-jī #tâi-lô #tâi-uē #tâi-uân-uē #tâi-gí #tâi-uân-gí #taiwan #sonyrx10iv #sonyrxmoments #sony #sonytaiwan #sonyphotography #bird #birds #birding #birdstagram #birdwatching #birdphotography #nature #naturelovers #naturephotography #nuts_about_birds
+ #鳥 #野鳥 #野鳥写真 #野鳥観察 #野鳥撮影 #自然 #台語 #漢羅 #台話 #台灣 #臺羅 #台灣話 #台灣語 #台羅 #台語羅馬字 #pe̍h-uē-jī #tâi-lô #tâi-uē #tâi-uân-uē #tâi-gí #tâi-uân-gí #taiwan #sonyrx10iv #sonyrxmoments #sony #sonytaiwan #sonyphotography #bird #birds #birding #birdstagram #birdwatching #birdphotography #nature #naturelovers #naturephotography #nuts_about_birds
