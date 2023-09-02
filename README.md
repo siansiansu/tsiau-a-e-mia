@@ -104,24 +104,24 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 
 ### [黑冠麻鷺 Malayan Night-Heron](https://ebird.org/species/manher1)
 
-台文 / 白話字
+漢羅 / 台羅
 
 - 山暗光 suann-àm-kong
 - 烏冠麻鷺 oo-kuan-muâ-lōo
 
-台文解釋
+漢羅解釋
 
 - 黑冠麻鷺台灣話號做`山暗光 suann-àm-kong`。
 - 抑是直接號做`烏冠麻鷺 oo-kuan-muâ-lōo`。
 
-白話字解釋
+台羅解釋
 
 - hei-guan-má-lù ê Tâi-uân-uē hō-tsò `suann-àm-kong`.
 - ia̍h-sī ti̍t-tsiap hō-tsò `oo-kuan-muâ-lōo`.
 
 ### [黃頭鷺 Cattle Egret](https://www.instagram.com/p/CipiRfcPAAI/)
 
-台文 / 白話字
+漢羅 / 台羅
 
 - 翎鷥 līng-si
 - 白鷺 pe̍h-lōo
@@ -130,13 +130,13 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 - 白翎鷥 pe̍h-līng-si
 - 黃頭鷺 n̂g-thâu-lōo
 
-台文解釋
+漢羅解釋
 
 - 一般鷺科 ê 台灣話攏會使號做`翎鷥 līng-si`佮`白翎鷥 pe̍h-līng-si`。
 - 嘛會當叫做`白鷺 pe̍h-lōo`、`鷺仔 lōo-á`、抑是`白鷺仔 pe̍h-lōo-á`。
 - 依據伊 ê 華語名，叫做`黃頭鷺 n̂g-thâu-lōo`嘛會通。
 
-白話字解釋
+台羅解釋
 
 - it-puann lōo-kho ê Tâi-uân-uē lóng ē-sái hō-tsò `līng-si` kap `pe̍h-līng-si`.
 - mà-ē-tàng kiò-tsò `pe̍h-lōo`, `lōo-á` ia̍h-sī `pe̍h-lōo-á`.
@@ -146,18 +146,18 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 
 ### [黑面琵鷺 Black-faced Spoonbill](https://www.instagram.com/p/CebV0O6vKxz/)
 
-台文 / 白話字
+漢羅 / 台羅
 
 - 抐桮 lā-pue
 - 烏面抐桮 oo-bīn-lā-pue
 - 飯匙鵝 puīnn-sî-gô
 
-台文解釋
+漢羅解釋
 
 - 黑面琵鷺會使號做`烏面抐桮 oo-bīn-lā-pue`，當然也會使直接號做`抐桮 lā-pue`。
 - `飯匙鵝 puīnn-sî-gô`佇宜蘭較濟人按呢講，大部分講`烏面抐桮` ê 人較濟。
 
-白話字解釋
+台羅解釋
 
 - hei-miàn-pí-lù ē-sái hō-tsò `oo-bīn-lā-pue`, tong-jiân iā-ē-sái ti̍t-tsiap hō-tsò `lā-pue`.
 - `puīnn-sî-gô` tī Gî-lân kà-tsē lâng án-ne kóng, tuā-pōo-hūn kóng `oo-bīn-lā-pue` ê lâng kà-tsē.
@@ -166,7 +166,7 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 
 ### [小環頸鴴 Little Ringed Plover](https://www.instagram.com/p/CwZ7A2pxXgI/)
 
-台文 / 白話字
+漢羅 / 台羅
 
 - 水尖仔 tsúi-tsiam-á
 - 海滑溜仔 hái-ku̍t-liu-á
@@ -176,63 +176,94 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 - 金眼 kim-gán
 - 金眼鴴 kim-gán-hîng
 
-台文解釋
+漢羅解釋
 
 - 一般鷸科佮鴴科 ê 鳥 á 攏會使號做`水尖仔 tsúi-tsiam-á`抑是`海滑溜仔 hái-ku̍t-liu-á`。
 - 若是參考 1973 Embree 台英辭典，會當號做`小鴴 sió-hîng`抑是`小環頸鴴 sió-huân-kīng-hîng`，當然也會使直接號做`鴴`。
 - 若是依據伊 ê 外觀抑是英語名 `Ringed` 稱呼，號做 `金眼 kim-gán`、`金眼鴴 kim-gán-hîng`。
 
-白話字解釋
+台羅解釋
 
 - it-puann u̍t-kho kap hîng-kho ê tsiáu-á lóng ē-sái hō-tsò `tsúi-tsiam-á` ia̍h-sī `hái-ku̍t-liu-á`.
 - nā-sī tsham-khó i̍t-kiú-tshit-sann Embree tâi-ing sû-tián, ē-tàng hō-tsò `sió-hîng` ia̍h-sī `sió-huân-kīng-hîng`, tong-jiân iā-ē-sái ti̍t-tsiap hō-tsò `hîng`.
 - nā-sī i-kì i ê guā-kuan ē-sái Ing-gí miâ "Ringed" tshing-hoo. hō-tsò `kim-gán`, `kim-gán-hîng`.
 
+## 扇尾鶯科 sìnn-bué-ing-kho
+
+## [褐頭鷦鶯 Plain Prinia](https://www.instagram.com/p/Cwrkz9BRNsM/)
+
+漢羅 / 台羅
+
+- 望冬 bāng-tang
+- 鷦鶯 tsiau-ing
+- 布袋鳥 pòo-tē-tsiáu
+- 布袋鳥仔 pòo-tē-tsiáu-á
+- 望冬丟仔 bāng-tang-tiú-á
+- 赤頭鷦鶯 tshiah-thâu-tsiau-ing
+- 台灣鷦鶯 Tâi-uân-tsiau-ing
+- 眉羽団扇鳥 bâi-ú-thuân-sìnn-tsiáu
+
+漢羅解釋
+
+- 台灣人攏叫伊`望冬 bāng-tang`、`布袋鳥 pòo-tē-tsiáu`、`布袋鳥仔 pòo-tē-tsiáu-á` 抑是`望冬丟仔 bāng-tang-tiú-á`。
+- 漢羅嘛會當寫作`芒冬`、`芒東`、`芒噹`同音字，遮依據台華線頂辭典，寫作`望冬 bāng-tang`。
+- 若是參考 Embree 台英辭典，會當號做`眉羽団扇鳥 tshinn-ú-thuân-sìnn-tsiáu`。
+- `眉羽団扇鳥 bâi-ú-thuân-sìnn-tsiáu` 應該是來自伊 ê 日本名`アジアマミハウチワドリ (亜細亜眉羽団扇鳥)`。
+- 褐色 ê 寫作赤色，若是依據辭典，嘛會使叫做 `tshiah-thâu-tsiau-ing`。
+- `台灣鷦鶯 Tâi-uân-tsiau-ing` 是來自伊 ê 華語俗名`台灣鷦鶯`。
+
+台羅解釋
+
+- Tâi-uân-lâng lóng kiò-i `bāng-tang`, `pòo-tē-tsiáu`, ia̍h-sī `bāng-tang-tiú-á`.
+- hàn-lô mà-ē-tàng siá-tsok `芒冬`, `芒東`, `芒噹` kāng-im-jī, tsia i-kì Tâi-huà-suànn-tíng sû-tián, siá-tsok `bāng-tang`.
+- nā-sī tsham-khó Embree tâi-ing sû-tián, ē-tàng hō-tsò ̍ `tshinn-ú-thuân-sìnn-tsiáu`.
+- `bâi-ú-thuân-sìnn-tsiáu` ìng-kai sī lâi-tsū i ê Ji̍t-pún-miâ `ajiamamihauchidori`。
+- hé-sè ê siá-tsok chhiah-sek, nā-sī i-kì sû-tián, mà-ē-sái kiò-tsò `tshiah-thâu-tsiau-ing`.
+- `Tâi-uân-tsiau-ing` sī lâi-tsū i ê Huâ-gí sio̍k-miâ `tái-wan-jiao-ying`.
+
 ## 鶲科 ong-kho
 
 ### [黑喉鴝 Amur Stonechat](https://www.instagram.com/p/Cku2RYNvmRI/)
 
-台文 / 白話字
+漢羅 / 台羅
 
 - 烏喉仔 oo-âu-á
 - 烏喉鴝 oo-âu-kî
 
-台文解釋
+漢羅解釋
 
 - 這隻佇辭典揣無伊 ê 名，毋過若依據伊 ê 外觀，我會叫伊`烏喉仔 oo-âu-á`。
 - 因為是外來語 ê 關係，若依據伊 ê 華文名，會當直接號做`烏喉鴝 oo-âu-kî`。
 
-白話字解釋
+台羅解釋
 
 - tse tsiah tī sû-tián tshuē bô i ê miâ, m̄-koh nā i-kì i ê guā-kuan, guá ē kiò i `oo-âu-á`.
 - in-uī sī guā-lâi-gí ê kuan-hē, nā i-kì i ê Huâ-bûn miâ, ē-tàng ti̍t-tsiap hō-tsò `oo-âu-kî`.
-
 
 ## 鵐科 bû-kho
 
 ### [黃喉鵐 Yellow-throated Bunting](https://www.instagram.com/p/ClGCBgLPzUg/)
 
-台文 / 白話字
+漢羅 / 台羅
 
 - 黃喉仔 n̂g-âu-á
 - 黃喉鵐 n̂g-âu-bû
 
-台文解釋
+漢羅解釋
 
 - 這隻佇辭典揣無伊 ê 名，毋過若依據伊 ê 外觀，我會叫伊`黃喉仔 n̂g-âu-á`。
 - 因為是外來語 ê 關係，若依據伊 ê 華文名，會當直接號做`黃喉鵐 n̂g-âu-bû`。
 
-白話字解釋
+台羅解釋
 
 - tse tsiah tī sû-tián tshuē bô i ê miâ, m̄-koh nā i-kì i ê guā-kuan, guá ē kiò i `n̂g-âu-á`.
 - in-uī sī guā-lâi-gí ê kuan-hē, nā i-kì i ê Huâ-bûn miâ, ē-tàng ti̍t-tsiap hō-tsò `n̂g-âu-bû`.
-
 
 ## 麻雀科 muâ-tshiok-kho
 
 ### [山麻雀 Russet Sparrow](https://www.instagram.com/p/CgHAFecvH-R/)
 
-台文 / 白話字
+漢羅 / 台羅
 
 - 山頂 ê 粟鳥仔 suann-tíng ê tshik-tsiáu-á
 - 穿紅衫 ê 粟鳥仔 tshīng âng-sann ê tshik-tsiáu-á
@@ -243,13 +274,13 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 - 厝鳥仔 tshù-tsiáu-á
 - 山麻雀 suann-môa-chhiok
 
-台文解釋
+漢羅解釋
 
 - 辭典揣無山麻雀 ê 台語名，毋過若依據伊生活 ê 環境佮伊 ê 外觀，我會叫伊`山頂 ê 粟鳥仔 suann-tíng ê tshik-tsiáu-á`、`穿紅衫 ê 粟鳥仔 tshīng âng-sann ê tshik-tsiáu-á`、`紅頭毛 ê 粟鳥仔 âng-thâu-mn̂g ê tshik-tsiáu-á`
 - 當然嘛會當借 `麻雀 Eurasian Tree Sparrow` ê 名，叫做`厝角鳥仔 tshù-kak-tsiáu-á`、`粟鳥仔 tshik-tsiáu-á`、`雀鳥仔 tshiok-tsiáu-á`佮`厝鳥仔 tshù-tsiáu-á`。
 - 若欲直接翻譯，會當參考伊 ê 華語名，號做 `山麻雀`。
 
-白話字解釋
+台羅解釋
 
 - sû-tián tshuē bô `shan-má-cyuè` ê Tâi-gí-miâ, m̄-koh nā i-kì i senn-ua̍h ê khuân-kíng kap i ê guā-kuan, guá ē kiò i `suann-tíng ê tshik-tsiáu-á`, `tshīng âng-sann ê tshik-tsiáu-á`, `âng-thâu-mn̂g ê tshik-tsiáu-á`.
 - tong-jiân mà-ē-tàng tsioh `Eurasian Tree Sparrow` ê miâ, kiò-tsò `tshù-kak-tsiáu-á`, `tshik-tsiáu-á`, `tshiok-tsiáu-á` kap `tshù-tsiáu-á`.
@@ -257,20 +288,20 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 
 ### [麻雀 Eurasian Tree Sparrow](https://www.instagram.com/p/CloZmg3v-V9/)
 
-台文 / 白話字
+漢羅 / 台羅
 
 - 厝角鳥仔 tshù-kak-tsiáu-á
 - 粟鳥仔 tshik-tsiáu-á
 - 雀鳥仔 tshiok-tsiáu-á
 - 厝鳥仔 tshù-tsiáu-á
 
-台文解釋
+漢羅解釋
 
 - 麻雀 ê 台語名會當叫做`厝角鳥仔 tshù-kak-tsiáu-á`、`粟鳥仔 tshik-tsiáu-á`、`雀鳥仔 tshiok-tsiáu-á`佮`厝鳥仔 tshù-tsiáu-á`。
 - 一般來講袂直接翻譯，因為`麻雀 muâ-tshiok`佮麻將 ê 台語名同音。
 - 若欲直接翻譯，會當參考伊 ê 英語名 `Eurasian Tree Sparrow` 號做 `樹麻雀 tshiū-muâ-tshiok` 抑是`歐洲樹麻雀 Au-tsiu-tshiū-muâ-tshiok`。
 
-白話字解釋
+台羅解釋
 
 - má-cyuè ê Tâi-gí-miâ ē-tàng kiò-tsò `tshù-kak-tsiáu-á`, `tshik-tsiáu-á`, `tshiok-tsiáu-á` kap `tshù-tsiáu-á`.
 - it-puann-lâi-kóng bē ti̍t-tsiap huan-i̍k, in-uī muâ-tshiok kap má-jiàng ê Tâi-gí-miâ tâng-im.
@@ -280,4 +311,4 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 
 ## 標籤 phiau-tshiam
 
-#鳥 #野鳥 #野鳥写真 #野鳥観察 #野鳥撮影 #自然 #台語 #台文 #台話 #台灣 #臺羅 #台灣話 #台灣語 #白話字 #台語羅馬字 #pe̍h-uē-jī #tâi-lô #tâi-uē #tâi-uân-uē #tâi-gí #tâi-uân-gí #taiwan #sonyrx10iv #sonyrxmoments #sony #sonytaiwan #sonyphotography #bird #birds #birding #birdstagram #birdwatching #birdphotography #nature #naturelovers #naturephotography #nuts_about_birds
+#鳥 #野鳥 #野鳥写真 #野鳥観察 #野鳥撮影 #自然 #台語 #漢羅 #台話 #台灣 #臺羅 #台灣話 #台灣語 #台羅 #台語羅馬字 #pe̍h-uē-jī #tâi-lô #tâi-uē #tâi-uân-uē #tâi-gí #tâi-uân-gí #taiwan #sonyrx10iv #sonyrxmoments #sony #sonytaiwan #sonyphotography #bird #birds #birding #birdstagram #birdwatching #birdphotography #nature #naturelovers #naturephotography #nuts_about_birds
