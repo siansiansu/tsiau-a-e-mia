@@ -1,6 +1,6 @@
 # [鳥仔 ê 名 - 文字版](https://siansiansu.github.io/tsiau-a-e-mia/)
 
-![image](https://user-images.githubusercontent.com/33391637/235700763-b3922fc6-5cbb-47e7-9de7-bfda3ad28e0d.png)
+![image](https://github.com/siansiansu/tsiau-a-e-mia/assets/33391637/f19e1953-1f18-4984-a264-6bd156b01b09)
 
 為著予大家認捌鳥仔的台灣話。
 
@@ -190,7 +190,7 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 
 ## 扇尾鶯科 sìnn-bué-ing-kho
 
-## [褐頭鷦鶯 Plain Prinia](https://www.instagram.com/p/Cwrkz9BRNsM/)
+### [褐頭鷦鶯 Plain Prinia](https://www.instagram.com/p/Cwrkz9BRNsM/)
 
 漢羅 / 台羅
 
