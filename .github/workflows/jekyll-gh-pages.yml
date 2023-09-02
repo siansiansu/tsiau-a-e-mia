@@ -9,7 +9,7 @@ on:
 
 env:
   PAGE_URL: https:\/\/siansiansu.github.io\/${{ github.event.repository.name }}
-  DESCRIPTION: 認捌鳥仔的台灣話 jīn-bat tsiáu-á ê Tâi-oân-ōe
+  DESCRIPTION: 認捌鳥仔 ê 台語名 jīn-bat tsiáu-á ê Tâi-gí-miâ
 
 permissions:
   contents: read
