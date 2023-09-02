@@ -1,6 +1,6 @@
 # [鳥仔 ê 名 - 文字版](https://siansiansu.github.io/tsiau-a-e-mia/)
 
-<img width="1457" alt="image" src="https://github.com/siansiansu/tsiau-a-e-mia/assets/33391637/e4a8b869-1bf1-4291-9ca6-954ad182d336">
+<img width="1457" alt="image" src="https://github.com/siansiansu/tsiau-a-e-mia/assets/33391637/53f1aba5-228b-47db-86fb-966fc256bad1">
 
 為著予大家認捌鳥仔的台灣話。
 
