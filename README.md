@@ -1,4 +1,4 @@
-# [鳥仔 ê 名 - 文字版](https://siansiansu.github.io/tsiau-a-e-mia/)
+# [鳥仔 ê 名](https://siansiansu.github.io/tsiau-a-e-mia/)
 
 <img width="1457" alt="image" src="https://github.com/siansiansu/tsiau-a-e-mia/assets/33391637/53f1aba5-228b-47db-86fb-966fc256bad1">
 
