@@ -8,7 +8,7 @@ on:
   repository_dispatch:
 
 env:
-  URL: https:\/\/siansiansu.github.io\/${{ github.event.repository.name }}
+  PAGE_URL: https:\/\/siansiansu.github.io\/${{ github.event.repository.name }}
   DESCRIPTION: 認捌鳥仔的台灣話 jīn-bat tsiáu-á ê Tâi-oân-ōe
 
 permissions:
@@ -36,8 +36,8 @@ jobs:
       - name: Run
         run: |
           cp -r jekyll-theme/* .
-          sed -i "3s/.*/url: ${URL}/" _config.yml
           sed -i "4s/.*/description: ${DESCRIPTION}/" _config.yml
+          sed -i "5s/.*/pageurl: ${PAGE_URL}/" _config.yml
           sed -i '1 i---\nlayout: home\n---\n' README.md
           cp README.md index.md
 
