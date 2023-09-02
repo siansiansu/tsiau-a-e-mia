@@ -1,4 +1,4 @@
-# 鳥仔 ê 名
+# 熟似鳥仔 ê 台語名
 
 <img width="1457" alt="image" src="https://github.com/siansiansu/tsiau-a-e-mia/assets/33391637/53f1aba5-228b-47db-86fb-966fc256bad1">
 
