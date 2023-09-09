@@ -1,4 +1,4 @@
-# 認捌鳥仔 ê 台語名 jīn-bat tsiáu-á ê Tâi-oân-ōe
+# 認捌鳥仔 ê 台語名 jīn-bat tsiáu-á ê Tâi-gí
 
 <img width="1457" alt="image" src="https://github.com/siansiansu/tsiau-a-e-mia/assets/33391637/53f1aba5-228b-47db-86fb-966fc256bad1">
 
