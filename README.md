@@ -92,9 +92,30 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 - [【鳳頭燕鷗】Great Crested Tern](https://www.instagram.com/p/Cf4cyiFP0mD/) -【海鷗】ka-mo-me、【海鳥】hái-tsiáu、【海雞母】hái-ke-bó、【海燕仔】hái-ìnn-á、【丁香鳥】ting-hiunn-tsiáu、【鳳頭燕鷗】hōng-thâu-iàn-oo、【燕鷗】iàn-oo。
 - [【鴻雁】Swan Goose](https://www.instagram.com/p/CZKHKvjvw5d/) -【鴻雁】hông-gān、【野鵝】iá-gô、【海鵝】hái-gô。
 - [【鵂鶹】Collared Owlet](https://www.instagram.com/p/CY4NkEhP5bQ/) -【鵂鶹】hiu-liû、【貓頭鳥】niau-thâu-tsiáu、【貓鵂鶹】niá-hiu-liû。
-- [【鵲鴨】Common Goldeneye](https://www.instagram.com/p/Cl37GiWvtUT/) -【金眼鴨】kim-gán-ah、【金眼仔】kim-gán-á、【水鴨】tsuí-ah。
 
 ---
+
+## 雁鴨科 gān-ah-kho
+
+### [鵲鴨 Common Goldeneye](https://www.instagram.com/p/Cl37GiWvtUT/)
+
+漢羅 / 台羅
+
+- 鴨仔 ah-á
+- 水鴨 tsuí-ah
+- 水鴨仔 tsuí-ah-á
+- 金眼鴨 kim-gán-ah
+- 金眼仔 kim-gán-á
+
+漢羅解釋
+
+- 一般會使叫做 `鴨仔 ah-á`、`水鴨 tsuí-ah` 抑是`水鴨仔 tsuí-ah-á`。
+- 這隻佇辭典揣無伊 ê 名，毋過若依據伊 ê 外觀，我會叫伊`烏喉仔 oo-âu-á`。
+
+台羅解釋
+
+- it-puann ē-sái kiò-tsò `ah-á`, `tsuí-ah` ē-sái `tsuí-ah-á`.
+- tse tsiah tī sû-tián tshuē bô i ê miâ, m̄-koh nā i-kì i ê guā-kuan, guá ē kiò i `kim-gán-ah` ē-sái `kim-gán-á`.
 
 ## 鷸科 u̍t-kho
 
