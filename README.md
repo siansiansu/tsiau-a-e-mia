@@ -90,7 +90,6 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 - [【長趾濱鷸】Long-toed Stint](https://www.instagram.com/p/CiHDhr9PBrT/) -【水尖仔】Tsúi-tsiam-á、【海滑溜仔】hái-ku̍t-liu-á、【濱鷸】pin-u̍t、【長趾濱鷸】tn̂g-tsí-pin-u̍t。
 - [【高蹺鴴】Black-winged Stilt](https://www.instagram.com/siansiansu/) -【躼跤仔】lò-kha-á、【高蹺鴴】ko-khiau-hîng、【黑翅高鷸】oo-tshì-ko-u̍t、【長跤鴴】tng-kha-hîng。
 - [【鳳頭燕鷗】Great Crested Tern](https://www.instagram.com/p/Cf4cyiFP0mD/) -【海鷗】ka-mo-me、【海鳥】hái-tsiáu、【海雞母】hái-ke-bó、【海燕仔】hái-ìnn-á、【丁香鳥】ting-hiunn-tsiáu、【鳳頭燕鷗】hōng-thâu-iàn-oo、【燕鷗】iàn-oo。
-- [【鴻雁】Swan Goose](https://www.instagram.com/p/CZKHKvjvw5d/) -【鴻雁】hông-gān、【野鵝】iá-gô、【海鵝】hái-gô。
 
 ---
 
@@ -109,7 +108,7 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 - 貓頭姑 niau-thâu-koo
 - 貓頭鳥 niau-thâu-tsiáu
 - 貓頭鷹 niau-thâu-ing
-- 貓鵂鶹 niá-hiu-liû
+- 領鵂鶹 niá-hiu-liû
 - 鴟鴞 tshi-hiau
 - 鵂鶹 hiu-liû
 - 鷦鶹 tsiau-liû
@@ -117,7 +116,7 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 漢羅解釋
 
 - 若是參考 Embree 台英辭典、 Maryknoll 台英辭典、台華線頂辭典佮 iTaigi，一般鴟鴞科 ē 鳥仔會使號做`姑嫂鳥 koo-só-tsiáu`、`孤黃 koo-n̂g`、`孤黃貓 koo-n̂g-niau`、`孤黃鳥 koo-n̂g-tsiáu`、`暗光鳥 àm-kong-tsiáu`、`暗晏鳥 àm-uànn-tsiáu`、`貓頭姑 niau-thâu-koo`、`貓頭鳥 niau-thâu-tsiáu`、`貓頭鷹 niau-thâu-ing`。
-- 鵂鶹這種鳥仔會使號做`貓鵂鶹 niá-hiu-liû`、`鵂鶹 hiu-liû`、`鷦鶹 tsiau-liû`。
+- 鵂鶹這種鳥仔會使號做`領鵂鶹 niá-hiu-liû`、`鵂鶹 hiu-liû`、`鷦鶹 tsiau-liû`。
 
 台羅解釋
 
@@ -125,6 +124,25 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 - siou lIóu tsit-tsióng tsiáu-á ē-sái hō-tsò `niá-hiu-liû`, `hiu-liû`, `tsiau-liû`.
 
 ## 雁鴨科 gān-ah-kho
+
+### [鴻雁 Swan Goose](https://www.instagram.com/p/CZKHKvjvw5d/)
+
+漢羅 / 台羅
+
+- 海鵝 hái-gô
+- 野鵝 iá-gô
+- 雁 gān
+- 鴻雁 hông-gān
+
+漢羅解釋
+
+- 依據台華線頂辭典，會當號做`海鵝 hái-gô`、`野鵝 iá-gô`、`鴻雁 hông-gān`。
+- 也會使簡單號做`雁 gān`。
+
+台羅解釋
+
+- i-kì Tâi-huà-suànn-tíng sû-tián, ē-tàng hō-tsò `hái-gô`, `iá-gô`, `hông-gān`.
+- iā-ē-sái kán-tan hō-tsò `gān`.
 
 ### [鵲鴨 Common Goldeneye](https://www.instagram.com/p/Cl37GiWvtUT/)
 
