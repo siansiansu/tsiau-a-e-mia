@@ -1,20 +1,18 @@
-# 熟似鳥仔 ê 台語名
+# 認捌鳥仔 ê 台語名 jīn-bat tsiáu-á ê Tâi-gí
 
 <img width="1457" alt="image" src="https://github.com/siansiansu/tsiau-a-e-mia/assets/33391637/53f1aba5-228b-47db-86fb-966fc256bad1">
 
-為著予大家認捌鳥仔的台灣話。
+為著予大家認捌鳥仔 ê 台灣話。
 
 Uī-tio̍h hōo ta-ke jīn-bat tsiáu-á ê Tâi-oân-ōe.
 
+我整理了這個清單，予大家方便揣鳥仔 ê 台語名。
 
-我整理了這個網站，予大家方便找鳥仔的台語名。
+Guá tsíng-lí tsit-ê tshing-tuann, hōo ta-ke hong-piān tshuē tsiáu-á ê Tâi-gí miâ.
 
-Guá	tsíng-lí tsit-ê bāng-tsām，hōo ta-ke hong-piān tshuē tsiáu-á ê Tâi-gí miâ.
+希望會當藉著認捌鳥仔 ê 名，嘛有越來越濟人使用這个漸漸消失 ê 語言。
 
-
-希望會當佇熟似鳥仔的時陣，嘛有越來越濟人使用這個漸漸消失的語言。
-
-Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú tsuē lâng sú-iōng tsit-ê	tsiām-tsiām	siau-sit ê gí-giân.
+Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsuē lâng sú-iōng tsit-ê tsiām-tsiām siau-sit ê gí-giân.
 
 ---
 
@@ -94,11 +92,73 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 - [【鳳頭燕鷗】Great Crested Tern](https://www.instagram.com/p/Cf4cyiFP0mD/) -【海鷗】ka-mo-me、【海鳥】hái-tsiáu、【海雞母】hái-ke-bó、【海燕仔】hái-ìnn-á、【丁香鳥】ting-hiunn-tsiáu、【鳳頭燕鷗】hōng-thâu-iàn-oo、【燕鷗】iàn-oo。
 - [【鴻雁】Swan Goose](https://www.instagram.com/p/CZKHKvjvw5d/) -【鴻雁】hông-gān、【野鵝】iá-gô、【海鵝】hái-gô。
 - [【鵂鶹】Collared Owlet](https://www.instagram.com/p/CY4NkEhP5bQ/) -【鵂鶹】hiu-liû、【貓頭鳥】niau-thâu-tsiáu、【貓鵂鶹】niá-hiu-liû。
-- [【鵲鴨】Common Goldeneye](https://www.instagram.com/p/Cl37GiWvtUT/) -【金眼鴨】kim-gán-ah、【金眼仔】kim-gán-á、【水鴨】tsuí-ah。
-- [【鷹斑鷸】Wood Sandpiper](https://www.instagram.com/p/CiQW-vDvjOp/) -【水尖仔】Tsúi-tsiam-á、【海滑溜仔】hái-ku̍t-liu-á、【濱鷸】pin-u̍t、【鷹斑鷸】ing-pan-u̍t。
-- [【鸕鶿】Great Cormorant](https://www.instagram.com/p/CZj5j9WP7d-/) -【鸕鶿】lôo-tsî、【烏魚郎】oo-hî-lông、【老仔】lāu-á。
 
 ---
+
+## 雁鴨科 gān-ah-kho
+
+### [鵲鴨 Common Goldeneye](https://www.instagram.com/p/Cl37GiWvtUT/)
+
+漢羅 / 台羅
+
+- 鴨仔 ah-á
+- 水鴨 tsuí-ah
+- 水鴨仔 tsuí-ah-á
+- 金眼鴨 kim-gán-ah
+- 金眼仔 kim-gán-á
+
+漢羅解釋
+
+- 一般會使叫做 `鴨仔 ah-á`、`水鴨 tsuí-ah` 抑是`水鴨仔 tsuí-ah-á`。
+- 這隻佇辭典揣無伊 ê 名，毋過若依據伊 ê 外觀，我會叫伊`烏喉仔 oo-âu-á`。
+
+台羅解釋
+
+- it-puann ē-sái kiò-tsò `ah-á`, `tsuí-ah` ē-sái `tsuí-ah-á`.
+- tse tsiah tī sû-tián tshuē bô i ê miâ, m̄-koh nā i-kì i ê guā-kuan, guá ē kiò i `kim-gán-ah` ē-sái `kim-gán-á`.
+
+## 鷸科 u̍t-kho
+
+### [鷹斑鷸 Wood Sandpiper](https://www.instagram.com/p/CiQW-vDvjOp/)
+
+漢羅 / 台羅
+
+- 鷸 u̍t
+- 水尖仔 Tsúi-tsiam-á
+- 海滑溜仔 hái-ku̍t-liu-á
+- 鷹斑鷸 ing-pan-u̍t
+
+漢羅解釋
+
+- 一般鷸科佮鴴科 ê 鳥 á 攏會使號做`水尖仔 tsúi-tsiam-á`抑是`海滑溜仔 hái-ku̍t-liu-á`。
+- 若是參考 Embree 台英辭典，會當號做`鷹斑鷸 ing-pan-u̍t`，當然也會使直接號做`鷸 u̍t`。
+
+台羅解釋
+
+- it-puann u̍t-kho kap hîng-kho ê tsiáu-á lóng ē-sái hō-tsò `tsúi-tsiam-á` ia̍h-sī `hái-ku̍t-liu-á`.
+- nā-sī tsham-khó Embree tâi-ing sû-tián, ē-tàng hō-tsò `ing-pan-u̍t`, tong-jiân iā-ē-sái ti̍t-tsiap hō-tsò `u̍t`.
+
+## 鸕鶿科 lôo-tsî-kho
+
+### [鸕鶿 Great Cormorant](https://www.instagram.com/p/CZj5j9WP7d-/)
+
+漢羅 / 台羅
+
+- 老仔 lāu-á
+- 鶿鸕 tsû-lôo
+- 鸕鶿 lôo-tsî
+- 釣魚翁 tiò-hî-ang
+- 烏魚郎 oo-hî-lông
+
+漢羅解釋
+
+- 依據 Maryknoll 英台辭典，鸕鶿會當號做`鸕鶿 lôo-tsî` 佮`釣魚翁 tiò-hî-ang`。
+- 依據台華線頂辭典，鸕鶿會當號做`鶿鸕 tsû-lôo`、`老仔 lāu-á`、`烏魚郎 oo-hî-lông`。
+
+台羅解釋
+
+- i-kì Maryknoll ing-tâi sû-tián, `lú cíh` ē-tàng hō-tsò `lôo-tsî` kap `tiò-hî-ang`.
+- i-kì Tâi-huà-suànn-tíng sû-tián, `lú cíh` ē-tàng hō-tsò `tsû-lôo`, `lāu-á`, `oo-hî-lông`.
 
 ## 鷺科 lōo-kho
 
@@ -179,13 +239,13 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 漢羅解釋
 
 - 一般鷸科佮鴴科 ê 鳥 á 攏會使號做`水尖仔 tsúi-tsiam-á`抑是`海滑溜仔 hái-ku̍t-liu-á`。
-- 若是參考 1973 Embree 台英辭典，會當號做`小鴴 sió-hîng`抑是`小環頸鴴 sió-huân-kīng-hîng`，當然也會使直接號做`鴴`。
+- 若是參考 Embree 台英辭典，會當號做`小鴴 sió-hîng`抑是`小環頸鴴 sió-huân-kīng-hîng`，當然也會使直接號做`鴴`。
 - 若是依據伊 ê 外觀抑是英語名 `Ringed` 稱呼，號做 `金眼 kim-gán`、`金眼鴴 kim-gán-hîng`。
 
 台羅解釋
 
 - it-puann u̍t-kho kap hîng-kho ê tsiáu-á lóng ē-sái hō-tsò `tsúi-tsiam-á` ia̍h-sī `hái-ku̍t-liu-á`.
-- nā-sī tsham-khó i̍t-kiú-tshit-sann Embree tâi-ing sû-tián, ē-tàng hō-tsò `sió-hîng` ia̍h-sī `sió-huân-kīng-hîng`, tong-jiân iā-ē-sái ti̍t-tsiap hō-tsò `hîng`.
+- nā-sī tsham-khó Embree tâi-ing sû-tián, ē-tàng hō-tsò `sió-hîng` ia̍h-sī `sió-huân-kīng-hîng`, tong-jiân iā-ē-sái ti̍t-tsiap hō-tsò `hîng`.
 - nā-sī i-kì i ê guā-kuan ē-sái Ing-gí miâ "Ringed" tshing-hoo. hō-tsò `kim-gán`, `kim-gán-hîng`.
 
 ## 扇尾鶯科 sìnn-bué-ing-kho
@@ -308,7 +368,5 @@ Hi-bōng ē-tàng tī si̍k-sāi tsiáu-á ê sî-tsūn，mā-ū lú-lâi-lú ts
 - nā-beh ti̍t-tsiap huan-i̍k, ē-tàng tsham-khó i ê Ing-gí-miâ `Eurasian Tree Sparrow` hō-tsò `tshiū-muâ-tshiok` ia̍h-sī `Au-tsiu-tshiū-muâ-tshiok`.
 
 ---
-
-## 標籤 phiau-tshiam
 
  #鳥 #野鳥 #野鳥写真 #野鳥観察 #野鳥撮影 #自然 #台語 #漢羅 #台話 #台灣 #臺羅 #台灣話 #台灣語 #台羅 #台語羅馬字 #pe̍h-uē-jī #tâi-lô #tâi-uē #tâi-uân-uē #tâi-gí #tâi-uân-gí #taiwan #sonyrx10iv #sonyrxmoments #sony #sonytaiwan #sonyphotography #bird #birds #birding #birdstagram #birdwatching #birdphotography #nature #naturelovers #naturephotography #nuts_about_birds
