@@ -1,4 +1,4 @@
-# 認捌鳥仔 ê 台語名 jīn-bat tsiáu-á ê Tâi-gí
+# 認捌鳥仔 ê 台語名
 
 <img width="1457" alt="image" src="https://github.com/siansiansu/tsiau-a-e-mia/assets/33391637/53f1aba5-228b-47db-86fb-966fc256bad1">
 
@@ -110,7 +110,7 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 漢羅解釋
 
 - 一般會使叫做 `鴨仔 ah-á`、`水鴨 tsuí-ah` 抑是`水鴨仔 tsuí-ah-á`。
-- 這隻佇辭典揣無伊 ê 名，毋過若依據伊 ê 外觀，我會叫伊`烏喉仔 oo-âu-á`。
+- 這隻佇辭典揣無伊 ê 名，毋過若依據伊 ê 外觀，我會叫伊`金眼鴨 kim-gán-ah` 抑是 `金眼仔 kim-gán-á`。
 
 台羅解釋
 
