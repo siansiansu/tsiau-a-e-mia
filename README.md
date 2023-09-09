@@ -93,9 +93,29 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 - [【鴻雁】Swan Goose](https://www.instagram.com/p/CZKHKvjvw5d/) -【鴻雁】hông-gān、【野鵝】iá-gô、【海鵝】hái-gô。
 - [【鵂鶹】Collared Owlet](https://www.instagram.com/p/CY4NkEhP5bQ/) -【鵂鶹】hiu-liû、【貓頭鳥】niau-thâu-tsiáu、【貓鵂鶹】niá-hiu-liû。
 - [【鵲鴨】Common Goldeneye](https://www.instagram.com/p/Cl37GiWvtUT/) -【金眼鴨】kim-gán-ah、【金眼仔】kim-gán-á、【水鴨】tsuí-ah。
-- [【鷹斑鷸】Wood Sandpiper](https://www.instagram.com/p/CiQW-vDvjOp/) -【水尖仔】Tsúi-tsiam-á、【海滑溜仔】hái-ku̍t-liu-á、【濱鷸】pin-u̍t、【鷹斑鷸】ing-pan-u̍t。
 
 ---
+
+## 鷸科 u̍t-kho
+
+### [鷹斑鷸 Wood Sandpiper](https://www.instagram.com/p/CiQW-vDvjOp/)
+
+漢羅 / 台羅
+
+- 鷸 u̍t
+- 水尖仔 Tsúi-tsiam-á
+- 海滑溜仔 hái-ku̍t-liu-á
+- 鷹斑鷸 ing-pan-u̍t
+
+漢羅解釋
+
+- 一般鷸科佮鴴科 ê 鳥 á 攏會使號做`水尖仔 tsúi-tsiam-á`抑是`海滑溜仔 hái-ku̍t-liu-á`。
+- 若是參考 Embree 台英辭典，會當號做`鷹斑鷸 ing-pan-u̍t`，當然也會使直接號做`鷸 u̍t`。
+
+台羅解釋
+
+- it-puann u̍t-kho kap hîng-kho ê tsiáu-á lóng ē-sái hō-tsò `tsúi-tsiam-á` ia̍h-sī `hái-ku̍t-liu-á`.
+- nā-sī tsham-khó Embree tâi-ing sû-tián, ē-tàng hō-tsò `ing-pan-u̍t`, tong-jiân iā-ē-sái ti̍t-tsiap hō-tsò `u̍t`.
 
 ## 鸕鶿科 lôo-tsî-kho
 
