@@ -10,7 +10,7 @@ Uī-tio̍h hōo ta-ke jīn-bat tsiáu-á ê Tâi-oân-ōe.
 
 Guá tsíng-lí tsit-ê tshing-tuann, hōo ta-ke hong-piān tshuē tsiáu-á ê Tâi-gí miâ.
 
-希望會當藉著認捌鳥仔 ê 名，嘛有越來越濟人使用這個漸漸消失的語言。
+希望會當藉著認捌鳥仔 ê 名，嘛有越來越濟人使用這个漸漸消失 ê 語言。
 
 Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsuē lâng sú-iōng tsit-ê tsiām-tsiām siau-sit ê gí-giân.
 
