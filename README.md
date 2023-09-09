@@ -91,9 +91,38 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 - [【高蹺鴴】Black-winged Stilt](https://www.instagram.com/siansiansu/) -【躼跤仔】lò-kha-á、【高蹺鴴】ko-khiau-hîng、【黑翅高鷸】oo-tshì-ko-u̍t、【長跤鴴】tng-kha-hîng。
 - [【鳳頭燕鷗】Great Crested Tern](https://www.instagram.com/p/Cf4cyiFP0mD/) -【海鷗】ka-mo-me、【海鳥】hái-tsiáu、【海雞母】hái-ke-bó、【海燕仔】hái-ìnn-á、【丁香鳥】ting-hiunn-tsiáu、【鳳頭燕鷗】hōng-thâu-iàn-oo、【燕鷗】iàn-oo。
 - [【鴻雁】Swan Goose](https://www.instagram.com/p/CZKHKvjvw5d/) -【鴻雁】hông-gān、【野鵝】iá-gô、【海鵝】hái-gô。
-- [【鵂鶹】Collared Owlet](https://www.instagram.com/p/CY4NkEhP5bQ/) -【鵂鶹】hiu-liû、【貓頭鳥】niau-thâu-tsiáu、【貓鵂鶹】niá-hiu-liû。
 
 ---
+
+## 鴟鴞科 tshi-hiau-kho
+
+### [鵂鶹 Collared Owlet](https://www.instagram.com/p/CY4NkEhP5bQ/)
+
+漢羅 / 台羅
+
+- 姑嫂鳥 koo-só-tsiáu
+- 孤黃 koo-n̂g
+- 孤黃貓 koo-n̂g-niau
+- 孤黃鳥 koo-n̂g-tsiáu
+- 暗光鳥 àm-kong-tsiáu
+- 暗晏鳥 àm-uànn-tsiáu
+- 貓頭姑 niau-thâu-koo
+- 貓頭鳥 niau-thâu-tsiáu
+- 貓頭鷹 niau-thâu-ing
+- 貓鵂鶹 niá-hiu-liû
+- 鴟鴞 tshi-hiau
+- 鵂鶹 hiu-liû
+- 鷦鶹 tsiau-liû
+
+漢羅解釋
+
+- 若是參考 Embree 台英辭典、 Maryknoll 台英辭典、台華線頂辭典佮 iTaigi，一般鴟鴞科 ē 鳥仔會使號做`姑嫂鳥 koo-só-tsiáu`、`孤黃 koo-n̂g`、`孤黃貓 koo-n̂g-niau`、`孤黃鳥 koo-n̂g-tsiáu`、`暗光鳥 àm-kong-tsiáu`、`暗晏鳥 àm-uànn-tsiáu`、`貓頭姑 niau-thâu-koo`、`貓頭鳥 niau-thâu-tsiáu`、`貓頭鷹 niau-thâu-ing`。
+- 鵂鶹這種鳥仔會使號做`貓鵂鶹 niá-hiu-liû`、`鵂鶹 hiu-liû`、`鷦鶹 tsiau-liû`。
+
+台羅解釋
+
+- nā-sī tsham-khó Embree tâi-ing sû-tián, Maryknoll tâi-ing sû-tián, Tâi-huà-suànn-tíng sû-tián kap iTaigi, it-puann tshi-hiau-kho ē-sái hō-tsò `koo-só-tsiáu`, `koo-n̂g`, `koo-n̂g-niau`, `koo-n̂g-tsiáu`, `àm-kong-tsiáu`, `àm-uànn-tsiáu`, `niau-thâu-koo`, `niau-thâu-tsiáu`, `niau-thâu-ing`.
+- siou lIóu tsit-tsióng tsiáu-á ē-sái hō-tsò `niá-hiu-liû`, `hiu-liû`, `tsiau-liû`.
 
 ## 雁鴨科 gān-ah-kho
 
@@ -101,11 +130,11 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 
 漢羅 / 台羅
 
-- 鴨仔 ah-á
 - 水鴨 tsuí-ah
 - 水鴨仔 tsuí-ah-á
-- 金眼鴨 kim-gán-ah
 - 金眼仔 kim-gán-á
+- 金眼鴨 kim-gán-ah
+- 鴨仔 ah-á
 
 漢羅解釋
 
@@ -123,9 +152,9 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 
 漢羅 / 台羅
 
-- 鷸 u̍t
 - 水尖仔 Tsúi-tsiam-á
 - 海滑溜仔 hái-ku̍t-liu-á
+- 鷸 u̍t
 - 鷹斑鷸 ing-pan-u̍t
 
 漢羅解釋
@@ -144,11 +173,11 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 
 漢羅 / 台羅
 
+- 烏魚郎 oo-hî-lông
 - 老仔 lāu-á
+- 釣魚翁 tiò-hî-ang
 - 鶿鸕 tsû-lôo
 - 鸕鶿 lôo-tsî
-- 釣魚翁 tiò-hî-ang
-- 烏魚郎 oo-hî-lông
 
 漢羅解釋
 
@@ -183,11 +212,11 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 
 漢羅 / 台羅
 
-- 翎鷥 līng-si
-- 白鷺 pe̍h-lōo
-- 鷺仔 lōo-á
-- 白鷺仔 pe̍h-lōo-á
 - 白翎鷥 pe̍h-līng-si
+- 白鷺 pe̍h-lōo
+- 白鷺仔 pe̍h-lōo-á
+- 翎鷥 līng-si
+- 鷺仔 lōo-á
 - 黃頭鷺 n̂g-thâu-lōo
 
 漢羅解釋
@@ -228,13 +257,13 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 
 漢羅 / 台羅
 
+- 小環頸鴴 sió-huân-kīng-hîng
+- 小鴴 sió-hîng
 - 水尖仔 tsúi-tsiam-á
 - 海滑溜仔 hái-ku̍t-liu-á
-- 鴴 hîng
-- 小鴴 sió-hîng
-- 小環頸鴴 sió-huân-kīng-hîng
 - 金眼 kim-gán
 - 金眼鴴 kim-gán-hîng
+- 鴴 hîng
 
 漢羅解釋
 
@@ -254,14 +283,14 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 
 漢羅 / 台羅
 
-- 望冬 bāng-tang
-- 鷦鶯 tsiau-ing
+- 台灣鷦鶯 Tâi-uân-tsiau-ing
 - 布袋鳥 pòo-tē-tsiáu
 - 布袋鳥仔 pòo-tē-tsiáu-á
+- 望冬 bāng-tang
 - 望冬丟仔 bāng-tang-tiú-á
-- 赤頭鷦鶯 tshiah-thâu-tsiau-ing
-- 台灣鷦鶯 Tâi-uân-tsiau-ing
 - 眉羽団扇鳥 bâi-ú-thuân-sìnn-tsiáu
+- 赤頭鷦鶯 tshiah-thâu-tsiau-ing
+- 鷦鶯 tsiau-ing
 
 漢羅解釋
 
@@ -325,14 +354,14 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 
 漢羅 / 台羅
 
-- 山頂 ê 粟鳥仔 suann-tíng ê tshik-tsiáu-á
-- 穿紅衫 ê 粟鳥仔 tshīng âng-sann ê tshik-tsiáu-á
-- 紅頭毛 ê 粟鳥仔 âng-thâu-mn̂g ê tshik-tsiáu-á
 - 厝角鳥仔 tshù-kak-tsiáu-á
-- 粟鳥仔 tshik-tsiáu-á
-- 雀鳥仔 tshiok-tsiáu-á
 - 厝鳥仔 tshù-tsiáu-á
+- 山頂 ê 粟鳥仔 suann-tíng ê tshik-tsiáu-á
 - 山麻雀 suann-môa-chhiok
+- 穿紅衫 ê 粟鳥仔 tshīng âng-sann ê tshik-tsiáu-á
+- 粟鳥仔 tshik-tsiáu-á
+- 紅頭毛 ê 粟鳥仔 âng-thâu-mn̂g ê tshik-tsiáu-á
+- 雀鳥仔 tshiok-tsiáu-á
 
 漢羅解釋
 
@@ -351,9 +380,9 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 漢羅 / 台羅
 
 - 厝角鳥仔 tshù-kak-tsiáu-á
+- 厝鳥仔 tshù-tsiáu-á
 - 粟鳥仔 tshik-tsiáu-á
 - 雀鳥仔 tshiok-tsiáu-á
-- 厝鳥仔 tshù-tsiáu-á
 
 漢羅解釋
 
