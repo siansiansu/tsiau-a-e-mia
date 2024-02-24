@@ -37,6 +37,9 @@ jobs:
         run: |
           cp -r jekyll-theme/* .
           git config --global --add safe.directory $PWD
+          echo $PWD
+          ls -la
+          git branch
           sed -i "4s/.*/description: ${DESCRIPTION}/" _config.yml
           sed -i "5s/.*/pageurl: ${PAGE_URL}/" _config.yml
           sed -i '1 i---\nlayout: home\n---\n' README.md
