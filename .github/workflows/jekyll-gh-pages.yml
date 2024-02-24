@@ -36,10 +36,7 @@ jobs:
       - name: Run
         run: |
           cp -r jekyll-theme/* .
-          git config --global --add safe.directory $PWD
-          echo $PWD
-          ls -la
-          git branch
+          git config --global --add safe.directory '*'
           sed -i "4s/.*/description: ${DESCRIPTION}/" _config.yml
           sed -i "5s/.*/pageurl: ${PAGE_URL}/" _config.yml
           sed -i '1 i---\nlayout: home\n---\n' README.md
@@ -53,12 +50,6 @@ jobs:
         with:
           source: ./
           destination: ./_site
-
-      - name: Fix permissions
-        run: |
-          chmod -c -R +rX "_site/" | while read line; do
-          echo "::warning title=Invalid file permissions automatically fixed::$line"
-          done
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
