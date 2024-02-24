@@ -53,6 +53,8 @@ jobs:
       - name: Fix Permissions
         run: |
           git config --global --add safe.directory $PWD
+          git config --global --add safe.directory /github/workspace
+          git config --global --add safe.directory /github/workspace/jekyll-theme
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
