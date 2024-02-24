@@ -604,7 +604,7 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 
 台語 Taiwanese
 
--青笛仔 tshenn-thî-á
+- 青笛仔 tshenn-thî-á
 
 ### [冠羽畫眉 Taiwan Yuhina](https://www.instagram.com/p/Cm0uK0EvTnw/)
 
