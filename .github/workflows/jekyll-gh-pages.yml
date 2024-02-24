@@ -58,7 +58,7 @@ jobs:
           git config --global --add safe.directory '*'
 
       - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v1
 
   deploy:
     environment:
