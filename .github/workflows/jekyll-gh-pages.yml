@@ -52,7 +52,7 @@ jobs:
 
       - name: Fix Permissions
         run: |
-          git config --global --add safe.directory *
+          git config --global --add safe.directory $PWD
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
