@@ -40,8 +40,7 @@ jobs:
           sed -i "5s/.*/pageurl: ${PAGE_URL}/" _config.yml
           sed -i '1 i---\nlayout: home\n---\n' README.md
           cp README.md index.md
-          git config --global --add safe.directory /github/workspace
-          git config --global --add safe.directory /github/workspace/jekyll-theme
+          git config --global --add safe.directory '*'
 
       - name: Setup Pages
         uses: actions/configure-pages@v3
@@ -54,9 +53,9 @@ jobs:
 
       - name: Fix Permissions
         run: |
-          git config --global --add safe.directory $PWD
-          git config --global --add safe.directory /github/workspace
-          git config --global --add safe.directory /github/workspace/jekyll-theme
+          ls -la
+          ls -la /_site
+          git config --global --add safe.directory '*'
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
