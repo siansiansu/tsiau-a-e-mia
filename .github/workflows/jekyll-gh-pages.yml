@@ -53,9 +53,7 @@ jobs:
 
       - name: Fix Permissions
         run: |
-          sudo chmod -c -R +rX "_site/" | while read line; do
-            echo "::warning title=Invalid file permissions automatically fixed::$line"
-          done
+          sudo chown -R runner:docker ./_site
           ls -la
           ls -la ./_site
 
