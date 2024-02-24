@@ -54,7 +54,7 @@ jobs:
       - name: Fix Permissions
         run: |
           ls -la
-          ls -la /_site
+          ls -la ./_site
           git config --global --add safe.directory '*'
 
       - name: Upload Pages artifact
