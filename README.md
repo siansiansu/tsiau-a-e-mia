@@ -1,4 +1,4 @@
-# 鳥仔 ê 台語
+# 鳥仔 ê 名 - 認捌鳥仔 ê 台語
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/siansiansu/tsiau-a-e-mia)
 [![hackmd-github-sync-badge](https://hackmd.io/tlMjVg6sSBG9EI-fdFQBfg/badge)](https://hackmd.io/tlMjVg6sSBG9EI-fdFQBfg)
