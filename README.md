@@ -37,7 +37,7 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 - [鰹鳥科 kian-tsiáu-kho](https://hackmd.io/@siansiansu/B1jD6VD26)
 - [鸕鶿科 lôo-tsî-kho](https://hackmd.io/@siansiansu/B1Lotdw3p)
 - [軍艦鳥科 kun-lām-tsiáu-kho](https://hackmd.io/@siansiansu/Skwf9uP26)
-- [蛇鵜 tsuâ-thê-kho]()
+- [蛇鵜 tsuâ-thê-kho](https://hackmd.io/@siansiansu/H1i7klK2a)
 
 鵜形目
 ---
@@ -92,7 +92,8 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 雀形目
 ---
 
-- [八色鳥科 peh-sik-tsiáu-kho]()
+- [扇尾鶲科 sìnn-bué-ong-kho]()
+- [八色鳥科 peh-sik-tsiáu-kho](https://hackmd.io/@siansiansu/BklyJgY26)
 - [山椒鳥科 suann-tsiau-tsiáu-kho](https://hackmd.io/@siansiansu/SkkaksD2p)
 - [黃鸝科 hông-lê-kho](https://hackmd.io/@siansiansu/H1TWgjDha)
 - [卷尾科 kuàn-bé-kho](https://hackmd.io/@siansiansu/ByJKljDhp)
