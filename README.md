@@ -21,17 +21,17 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 
 - [轉去頭頁 tńg-khì thâu-ia̍h](https://hackmd.io/@siansiansu/Hy4VzNvha)
 
-雁形目
+雁形目 gān-hîng-ba̍k
 ---
 
 - [雁鴨科 gān-ah-kho](https://hackmd.io/@siansiansu/Bkyj2VP3p)
 
-鸌形目
+鸌形目 hōo-hîng-ba̍k
 ---
 
 - [鸌科 hōo-kho](https://hackmd.io/@siansiansu/SyodxUvh6)
 
-鰹鳥目
+鰹鳥目 kian-tsiáu-ba̍k
 ---
 
 - [鰹鳥科 kian-tsiáu-kho](https://hackmd.io/@siansiansu/B1jD6VD26)
@@ -39,24 +39,24 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 - [軍艦鳥科 kun-lām-tsiáu-kho](https://hackmd.io/@siansiansu/Skwf9uP26)
 - [蛇鵜 tsuâ-thê-kho](https://hackmd.io/@siansiansu/H1i7klK2a)
 
-鵜形目
+鵜形目 thê-hîng-ba̍k
 ---
 
 - [鷺科 lōo-kho](https://hackmd.io/@siansiansu/HkHts_D2p)
 - [䴉科 hiân-kho](https://hackmd.io/@siansiansu/ryeZhdDnT)
 
-鷹形目
+鷹形目 ing-hîng-ba̍k
 ---
 
 - [鷹科 ing-kho](https://hackmd.io/@siansiansu/Byo53_PhT)
 
-鶴形目
+鶴形目 ho̍h-hîng-ba̍k
 ---
 
 - [秧雞科 iong-kue-kho](https://hackmd.io/@siansiansu/SJ1Wadvh6)
 - [鶴科 ho̍h-kho](https://hackmd.io/@siansiansu/SJS2lYDn6)
 
-鴴形目
+鴴形目 hîng-hîng-ba̍k
 ---
 
 - [長腳鷸科 tng-kha-u̍t-kho](https://hackmd.io/@siansiansu/HJVfbYPnT)
@@ -67,34 +67,34 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 - [海雀科 hái-tshiok-kho](https://hackmd.io/@siansiansu/By17mKD2T)
 - [鷗科 oo-kho](https://hackmd.io/@siansiansu/By5P3qDnT)
 
-鴿形目
+鴿形目 kho-hîng-ba̍k
 ---
 
 - [鳩鴿科 khiu-kho](https://hackmd.io/@siansiansu/SyyWa9vh6)
 
-鴞形目
+鴞形目 hiau-hîng-ba̍k
 ---
 
 - [鴟鴞科 tshi-hiau-kho](https://hackmd.io/@siansiansu/SyUc65P36)
 
-佛法僧目
+佛法僧目 hu̍t-huat-tsing-ba̍k
 ---
 
 - [翠鳥科 hî-káu-kho](https://hackmd.io/@siansiansu/rJlZR5w3p)
 - [戴勝科 tì-sìng-kho](https://hackmd.io/@siansiansu/HJ5D0cwhp)
 
-啄木鳥目
+啄木鳥目 tok-tshiū-tsiáu-ba̍k
 ---
 
 - [啄木鳥科 tok-tshiū-tsiáu-kho](https://hackmd.io/@siansiansu/BkmGyjv3T)
 - [鬚鴷科 tshuì-lia̍t-kho](https://hackmd.io/@siansiansu/Skxw1ow2p)
 
-雀形目
+雀形目 tshiok-hîng-ba̍k
 ---
 
 - [八色鳥科 peh-sik-tsiáu-kho](https://hackmd.io/@siansiansu/BklyJgY26)
 - [卷尾科 kuàn-bé-kho](https://hackmd.io/@siansiansu/ByJKljDhp)
-- [噪眉科](https://hackmd.io/@siansiansu/SybsBsv3p)
+- [噪眉科 tshò-bâi-kho](https://hackmd.io/@siansiansu/SybsBsv3p)
 - [太陽鳥科 thài-iông-tsiáu-kho](https://hackmd.io/@siansiansu/Bykd7gKnT)
 - [山椒鳥科 suann-tsiau-tsiáu-kho](https://hackmd.io/@siansiansu/SkkaksD2p)
 - [扇尾鶯科 sìnn-bué-ing-kho](https://hackmd.io/@siansiansu/r1Q4NoD36)
@@ -105,24 +105,25 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 - [燕科 ìnn-kho](https://hackmd.io/@siansiansu/Sy2HZoP36)
 - [王鶲科 ông-ong-kho](https://hackmd.io/@siansiansu/B1OuLeYn6)
 - [畫眉科 hue-bî-kho](https://hackmd.io/@siansiansu/S1QLSjP3p)
-- [綠鵙科](https://hackmd.io/@siansiansu/Hkrd4iP2p)
+- [綠鵙科 li̍k-kio̍k-kho](https://hackmd.io/@siansiansu/Hkrd4iP2p)
 - [繡眼科 siù-gán-kho](https://hackmd.io/@siansiansu/rkYTNswhT)
 - [雀科 tshiok-kho](https://hackmd.io/@siansiansu/BJ2bPoD3p)
 - [鳾科 su-kho](https://hackmd.io/@siansiansu/ryNd7ovn6)
 - [鴉科 a-kho](https://hackmd.io/@siansiansu/r1fCeoD2a)
 - [鵐科 bû-kho](https://hackmd.io/@siansiansu/rJ2SviPha)
 - [鵯科 pi-kho](https://hackmd.io/@siansiansu/H1PnXsD36)
+- [鶇科 kán-kho](https://hackmd.io/@siansiansu/S163oeKna)
 - [鶲科 ong-kho](https://hackmd.io/@siansiansu/SJKASiPha)
-- [鶺鴒科](https://hackmd.io/@siansiansu/ryq3UoDnT)
+- [鶺鴒科 tsik-lîng-kho](https://hackmd.io/@siansiansu/ryq3UoDnT)
 - [麻雀科 muâ-tshiok-kho](https://hackmd.io/@siansiansu/r1x5DiPh6)
 - [黃鸝科 hông-lê-kho](https://hackmd.io/@siansiansu/H1TWgjDha)
 
-紅鸛目
+紅鸛目 âng-kuàn-ba̍k
 ---
 
-- [紅鸛科](https://hackmd.io/@siansiansu/HyEjDjDnp)
+- [紅鸛科 âng-kuàn-kho](https://hackmd.io/@siansiansu/HyEjDjDnp)
 
-鸚形目
+鸚形目 ing-hîng-ba̍k
 ---
 
-- [鸚鵡科](https://hackmd.io/@siansiansu/BySwOswhT)
+- [鸚鵡科 ing-bú-kho](https://hackmd.io/@siansiansu/BySwOswhT)
