@@ -34,7 +34,7 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 鰹鳥目 kian-tsiáu-ba̍k
 ---
 
-- [蛇鵜 tsuâ-thê-kho](https://hackmd.io/@siansiansu/H1i7klK2a)
+- [蛇鵜科 tsuâ-thê-kho](https://hackmd.io/@siansiansu/H1i7klK2a)
 - [軍艦鳥科 kun-lām-tsiáu-kho](https://hackmd.io/@siansiansu/Skwf9uP26)
 - [鰹鳥科 kian-tsiáu-kho](https://hackmd.io/@siansiansu/B1jD6VD26)
 - [鸕鶿科 lôo-tsî-kho](https://hackmd.io/@siansiansu/B1Lotdw3p)
