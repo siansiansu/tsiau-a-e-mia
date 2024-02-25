@@ -5,13 +5,13 @@
 
 <img width="1457" alt="image" src="https://github.com/siansiansu/tsiau-a-e-mia/assets/33391637/53f1aba5-228b-47db-86fb-966fc256bad1">
 
-為著予大家認捌鳥仔 ê 台灣話。
+為著予大家認捌鳥仔 ê 台語。
 
 我整理了這個清單，予大家方便揣鳥仔 ê 台語名。
 
 希望會當藉著認捌鳥仔 ê 名，嘛有越來越濟人使用這个漸漸消失 ê 語言。
 
-Uī-tio̍h hōo ta-ke jīn-bat tsiáu-á ê Tâi-oân-ōe.
+Uī-tio̍h hōo ta-ke jīn-bat tsiáu-á ê Tâi-gí.
 
 Guá tsíng-lí tsit-ê tshing-tuann, hōo ta-ke hong-piān tshuē tsiáu-á ê Tâi-gí miâ.
 
