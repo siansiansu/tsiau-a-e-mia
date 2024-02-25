@@ -34,16 +34,16 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 鰹鳥目 kian-tsiáu-ba̍k
 ---
 
+- [蛇鵜 tsuâ-thê-kho](https://hackmd.io/@siansiansu/H1i7klK2a)
+- [軍艦鳥科 kun-lām-tsiáu-kho](https://hackmd.io/@siansiansu/Skwf9uP26)
 - [鰹鳥科 kian-tsiáu-kho](https://hackmd.io/@siansiansu/B1jD6VD26)
 - [鸕鶿科 lôo-tsî-kho](https://hackmd.io/@siansiansu/B1Lotdw3p)
-- [軍艦鳥科 kun-lām-tsiáu-kho](https://hackmd.io/@siansiansu/Skwf9uP26)
-- [蛇鵜 tsuâ-thê-kho](https://hackmd.io/@siansiansu/H1i7klK2a)
 
 鵜形目 thê-hîng-ba̍k
 ---
 
-- [鷺科 lōo-kho](https://hackmd.io/@siansiansu/HkHts_D2p)
 - [䴉科 hiân-kho](https://hackmd.io/@siansiansu/ryeZhdDnT)
+- [鷺科 lōo-kho](https://hackmd.io/@siansiansu/HkHts_D2p)
 
 鷹形目 ing-hîng-ba̍k
 ---
@@ -59,13 +59,13 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 鴴形目 hîng-hîng-ba̍k
 ---
 
+- [彩鷸科 tshái-u̍t-kho](https://hackmd.io/@siansiansu/rydDztv36)
+- [海雀科 hái-tshiok-kho](https://hackmd.io/@siansiansu/By17mKD2T)
+- [賊鷗科 tsha̍t-á-oo-kho](https://hackmd.io/@siansiansu/r1HCGtPhp)
 - [長腳鷸科 tng-kha-u̍t-kho](https://hackmd.io/@siansiansu/HJVfbYPnT)
 - [鴴科 hîng-kho](https://hackmd.io/@siansiansu/rJmu-FwnT)
-- [鷸科 u̍t-kho](https://hackmd.io/@siansiansu/ryc0Wtw3a)
-- [彩鷸科 tshái-u̍t-kho](https://hackmd.io/@siansiansu/rydDztv36)
-- [賊鷗科 tsha̍t-á-oo-kho](https://hackmd.io/@siansiansu/r1HCGtPhp)
-- [海雀科 hái-tshiok-kho](https://hackmd.io/@siansiansu/By17mKD2T)
 - [鷗科 oo-kho](https://hackmd.io/@siansiansu/By5P3qDnT)
+- [鷸科 u̍t-kho](https://hackmd.io/@siansiansu/ryc0Wtw3a)
 
 鴿形目 kho-hîng-ba̍k
 ---
@@ -80,8 +80,8 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 佛法僧目 hu̍t-huat-tsing-ba̍k
 ---
 
-- [翠鳥科 hî-káu-kho](https://hackmd.io/@siansiansu/rJlZR5w3p)
 - [戴勝科 tì-sìng-kho](https://hackmd.io/@siansiansu/HJ5D0cwhp)
+- [翠鳥科 hî-káu-kho](https://hackmd.io/@siansiansu/rJlZR5w3p)
 
 啄木鳥目 tok-tshiū-tsiáu-ba̍k
 ---
