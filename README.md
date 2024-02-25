@@ -1,7 +1,7 @@
 # 鳥仔 ê 台語
 
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/siansiansu/tsiau-a-e-mia)
 [![hackmd-github-sync-badge](https://hackmd.io/tlMjVg6sSBG9EI-fdFQBfg/badge)](https://hackmd.io/tlMjVg6sSBG9EI-fdFQBfg)
-
 
 <img width="1457" alt="image" src="https://github.com/siansiansu/tsiau-a-e-mia/assets/33391637/53f1aba5-228b-47db-86fb-966fc256bad1">
 
@@ -66,18 +66,15 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 - [海雀科 hái-tshiok-kho](https://hackmd.io/@siansiansu/By17mKD2T)
 - [鷗科 oo-kho](https://hackmd.io/@siansiansu/By5P3qDnT)
 
-
 鴿形目
 ---
 
 - [鳩鴿科 khiu-kho](https://hackmd.io/@siansiansu/SyyWa9vh6)
 
-
 鴞形目
 ---
 
 - [鴟鴞科 tshi-hiau-kho](https://hackmd.io/@siansiansu/SyUc65P36)
-
 
 佛法僧目
 ---
@@ -90,13 +87,13 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 ---
 
 - [啄木鳥科 tok-tshiū-tsiáu-kho](https://hackmd.io/@siansiansu/BkmGyjv3T)
-- [鬚鴷科 tshuì-lia̍t-kho](https://hackmd.io/@siansiansu/Skxw1ow2p) 
+- [鬚鴷科 tshuì-lia̍t-kho](https://hackmd.io/@siansiansu/Skxw1ow2p)
 
 雀形目
 ---
 
 - [山椒鳥科 suann-tsiau-tsiáu-kho](https://hackmd.io/@siansiansu/SkkaksD2p)
-- [黃鸝科 hông-lê-kho](https://hackmd.io/@siansiansu/H1TWgjDha) 
+- [黃鸝科 hông-lê-kho](https://hackmd.io/@siansiansu/H1TWgjDha)
 - [卷尾科 kuàn-bé-kho](https://hackmd.io/@siansiansu/ByJKljDhp)
 - [鴉科 a-kho](https://hackmd.io/@siansiansu/r1fCeoD2a)
 - [燕科 ìnn-kho](https://hackmd.io/@siansiansu/Sy2HZoP36)
