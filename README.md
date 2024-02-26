@@ -94,8 +94,8 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 
 - [八色鳥科 peh-sik-tsiáu-kho](https://hackmd.io/@siansiansu/BklyJgY26)
 - [卷尾科 kuàn-bé-kho](https://hackmd.io/@siansiansu/ByJKljDhp)
+- [吸蜜鳥科 khip-bi̍t-tsiáu-kho](https://hackmd.io/@siansiansu/Bykd7gKnT)
 - [噪眉科 tshò-bâi-kho](https://hackmd.io/@siansiansu/SybsBsv3p)
-- [太陽鳥科 thài-iông-tsiáu-kho](https://hackmd.io/@siansiansu/Bykd7gKnT)
 - [山椒鳥科 suann-tsiau-tsiáu-kho](https://hackmd.io/@siansiansu/SkkaksD2p)
 - [扇尾鶯科 sìnn-bué-ing-kho](https://hackmd.io/@siansiansu/r1Q4NoD36)
 - [扇尾鶲科 sìnn-bué-ong-kho](https://hackmd.io/@siansiansu/HJkkzgKna)
