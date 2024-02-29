@@ -75,6 +75,7 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 鴞形目 hiau-hîng-ba̍k
 ---
 
+- [草鴞科 tsháu-hiau-kho](https://hackmd.io/@siansiansu/H1GfySRnT)
 - [鴟鴞科 tshi-hiau-kho](https://hackmd.io/@siansiansu/SyUc65P36)
 
 佛法僧目 hu̍t-huat-tsing-ba̍k
