@@ -31,12 +31,12 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 
 - [雉科 thī-kho](https://hackmd.io/@siansiansu/B1boxiQTp)
 
-潛鳥目
+潛鳥目 tsiâm-tsiáu-ba̍k
 ---
 
 - [潛鳥科 tsiâm-tsiáu-kho](https://hackmd.io/@siansiansu/rymJ-oma6)
 
-鸊鷉目
+鸊鷉目 phik-su-ba̍k
 ---
 
 - [鸊鷉科 phik-su-kho](https://hackmd.io/@siansiansu/ByPubomp6)
