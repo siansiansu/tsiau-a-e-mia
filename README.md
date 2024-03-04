@@ -26,10 +26,28 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 
 - [雁鴨科 gān-ah-kho](https://hackmd.io/@siansiansu/Bkyj2VP3p)
 
+雞形目 ke-hîng-ba̍k
+---
+
+- [雉科 thī-kho]()
+
+潛鳥目
+---
+
+- [潛鳥科 tsiâm-tsiáu-kho]()
+
+鸊鷉目
+---
+
+- [鸊鷉科 phik-su-kho]()
+
 鸌形目 hōo-hîng-ba̍k
 ---
 
+- [信天翁科 sìn-thian-ang-kho]()
 - [鸌科 hōo-kho](https://hackmd.io/@siansiansu/SyodxUvh6)
+- [海燕科 hái-iàn-kho]()
+- [熱帶鳥科 jia̍t-tài-tsiáu-kho]()
 
 鰹鳥目 kian-tsiáu-ba̍k
 ---
