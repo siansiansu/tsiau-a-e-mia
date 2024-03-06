@@ -78,7 +78,7 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 隼形目 tsún-hîng-ba̍k
 ---
 
-- [隼科 tsún-kho]()
+- [隼科 tsún-kho](https://hackmd.io/@siansiansu/BJ39QVI6a)
 
 鶴形目 ho̍h-hîng-ba̍k
 ---
@@ -89,13 +89,17 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 鴴形目 hîng-hîng-ba̍k
 ---
 
-- [彩鷸科 tshái-u̍t-kho](https://hackmd.io/@siansiansu/rydDztv36)
-- [海雀科 hái-tshiok-kho](https://hackmd.io/@siansiansu/By17mKD2T)
-- [賊鷗科 tsha̍t-á-oo-kho](https://hackmd.io/@siansiansu/r1HCGtPhp)
 - [長腳鷸科 tng-kha-u̍t-kho](https://hackmd.io/@siansiansu/HJVfbYPnT)
+- [水雉科 tsuí-thī-kho]()
+- [蠣鷸科 lē-u̍t-kho]()
 - [鴴科 hîng-kho](https://hackmd.io/@siansiansu/rJmu-FwnT)
-- [鷗科 oo-kho](https://hackmd.io/@siansiansu/By5P3qDnT)
 - [鷸科 u̍t-kho](https://hackmd.io/@siansiansu/ryc0Wtw3a)
+- [燕鴴科 iàn-hîng-kho]()
+- [彩鷸科 tshái-u̍t-kho](https://hackmd.io/@siansiansu/rydDztv36)
+- [三趾鶉科 sam-tsí-tshun-kho]()
+- [賊鷗科 tsha̍t-á-oo-kho](https://hackmd.io/@siansiansu/r1HCGtPhp)
+- [海雀科 hái-tshiok-kho](https://hackmd.io/@siansiansu/By17mKD2T)
+- [鷗科 oo-kho](https://hackmd.io/@siansiansu/By5P3qDnT)
 
 鴿形目 kho-hîng-ba̍k
 ---
