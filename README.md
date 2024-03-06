@@ -67,7 +67,7 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 鸛形目 kuàn-hîng-ba̍k
 ---
 
-- [鸛科 kuàn-kho]()
+- [鸛科 kuàn-kho](https://hackmd.io/@siansiansu/SyEqfW8Tp)
 
 鷹形目 ing-hîng-ba̍k
 ---
