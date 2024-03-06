@@ -90,13 +90,13 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 ---
 
 - [長腳鷸科 tng-kha-u̍t-kho](https://hackmd.io/@siansiansu/HJVfbYPnT)
-- [水雉科 tsuí-thī-kho]()
-- [蠣鷸科 lē-u̍t-kho]()
+- [水雉科 tsuí-thī-kho](https://hackmd.io/@siansiansu/Sk7TYNL6T)
+- [蠣鷸科 lē-u̍t-kho](https://hackmd.io/@siansiansu/ryDpYNL6T)
 - [鴴科 hîng-kho](https://hackmd.io/@siansiansu/rJmu-FwnT)
 - [鷸科 u̍t-kho](https://hackmd.io/@siansiansu/ryc0Wtw3a)
-- [燕鴴科 iàn-hîng-kho]()
+- [燕鴴科 iàn-hîng-kho](https://hackmd.io/@siansiansu/BkwTt4L6p)
 - [彩鷸科 tshái-u̍t-kho](https://hackmd.io/@siansiansu/rydDztv36)
-- [三趾鶉科 sam-tsí-tshun-kho]()
+- [三趾鶉科 sam-tsí-tshun-kho](https://hackmd.io/@siansiansu/Bk1Y5NITa)
 - [賊鷗科 tsha̍t-á-oo-kho](https://hackmd.io/@siansiansu/r1HCGtPhp)
 - [海雀科 hái-tshiok-kho](https://hackmd.io/@siansiansu/By17mKD2T)
 - [鷗科 oo-kho](https://hackmd.io/@siansiansu/By5P3qDnT)
