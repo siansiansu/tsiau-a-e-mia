@@ -106,6 +106,11 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 
 - [鳩鴿科 khiu-kho](https://hackmd.io/@siansiansu/SyyWa9vh6)
 
+鵑形目 kuan-hîng-ba̍k
+---
+
+- [杜鵑科 tōo-kuan-kho]()
+
 鴞形目 hiau-hîng-ba̍k
 ---
 
