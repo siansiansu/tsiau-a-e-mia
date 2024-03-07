@@ -109,7 +109,7 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 鵑形目 kuan-hîng-ba̍k
 ---
 
-- [杜鵑科 tōo-kuan-kho]()
+- [杜鵑科 tōo-kuan-kho](https://hackmd.io/@siansiansu/BkY5-uvpa)
 
 鴞形目 hiau-hîng-ba̍k
 ---
@@ -117,11 +117,23 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 - [草鴞科 tsháu-hiau-kho](https://hackmd.io/@siansiansu/H1GfySRnT)
 - [鴟鴞科 tshi-hiau-kho](https://hackmd.io/@siansiansu/SyUc65P36)
 
+夜鷹目
+---
+
+- [夜鷹科 iā-ing-kho]()
+
+雨燕目
+---
+
+- [雨燕科 ú-iàn-kho]()
+
 佛法僧目 hu̍t-huat-tsing-ba̍k
 ---
 
-- [戴勝科 tì-sìng-kho](https://hackmd.io/@siansiansu/HJ5D0cwhp)
 - [翠鳥科 hî-káu-kho](https://hackmd.io/@siansiansu/rJlZR5w3p)
+- [佛法僧科 hu̍t-huat-tsing-kho]()
+- [蜂虎科 phang-hóo-kho]()
+- [戴勝科 tì-sìng-kho](https://hackmd.io/@siansiansu/HJ5D0cwhp)
 
 啄木鳥目 tok-tshiū-tsiáu-ba̍k
 ---
