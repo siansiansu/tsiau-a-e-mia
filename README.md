@@ -20,7 +20,7 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 ---
 
 - [轉去頭頁 tńg-khì thâu-ia̍h](https://hackmd.io/@siansiansu/Hy4VzNvha)
-- [鳥仔 ê 形體外觀 tsiáu-á ê hîng-thé guā-kuan]()
+- [鳥仔 ê 形體外觀 tsiáu-á ê hîng-thé guā-kuan](https://hackmd.io/@siansiansu/SJFLvODTT)
 
 雁形目 gān-hîng-ba̍k
 ---
@@ -121,19 +121,19 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 夜鷹目
 ---
 
-- [夜鷹科 iā-ing-kho]()
+- [夜鷹科 iā-ing-kho](https://hackmd.io/@siansiansu/S1E9QKPTp)
 
 雨燕目
 ---
 
-- [雨燕科 ú-iàn-kho]()
+- [雨燕科 ú-iàn-kho](https://hackmd.io/@siansiansu/B1WfXFP6a)
 
 佛法僧目 hu̍t-huat-tsing-ba̍k
 ---
 
 - [翠鳥科 hî-káu-kho](https://hackmd.io/@siansiansu/rJlZR5w3p)
-- [佛法僧科 hu̍t-huat-tsing-kho]()
-- [蜂虎科 phang-hóo-kho]()
+- [佛法僧科 hu̍t-huat-tsing-kho](https://hackmd.io/@siansiansu/SJtpftva6)
+- [蜂虎科 phang-hóo-kho](https://hackmd.io/@siansiansu/Bku8zYvpa)
 - [戴勝科 tì-sìng-kho](https://hackmd.io/@siansiansu/HJ5D0cwhp)
 
 啄木鳥目 tok-tshiū-tsiáu-ba̍k
