@@ -184,12 +184,12 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 - [吸蜜鳥科 khip-bi̍t-tsiáu-kho](https://hackmd.io/@siansiansu/Bykd7gKnT)
 - [鶺鴒科 tsik-lîng-kho](https://hackmd.io/@siansiansu/ryq3UoDnT)
 - [岩鷚科 gān-liù-kho](https://hackmd.io/@siansiansu/rk9w1cvap)
-- [連雀科 liân-tshiok-kho]()
+- [連雀科 liân-tshiok-kho](https://hackmd.io/@siansiansu/ry1de5DpT)
 - [鵐科 bû-kho](https://hackmd.io/@siansiansu/rJ2SviPha)
-- [鐵爪鵐科 thih-jiáu-bû-kho]()
+- [鐵爪鵐科 thih-jiáu-bû-kho](https://hackmd.io/@siansiansu/HyJ_l9Pp6)
 - [雀科 tshiok-kho](https://hackmd.io/@siansiansu/BJ2bPoD3p)
 - [麻雀科 muâ-tshiok-kho](https://hackmd.io/@siansiansu/r1x5DiPh6)
-- [梅花雀科 muî-hue-tshiok-kho]()
+- [梅花雀科 muî-hue-tshiok-kho](https://hackmd.io/@siansiansu/Ske_l5Daa)
 - [扇尾鶲科 sìnn-bué-ong-kho](https://hackmd.io/@siansiansu/HJkkzgKna)
 
 紅鸛目 âng-kuàn-ba̍k
