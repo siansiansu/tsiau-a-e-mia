@@ -20,7 +20,7 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 ---
 
 - [轉去頭頁](https://hackmd.io/@siansiansu/Hy4VzNvha)
-- [鳥仔 ê 形體](https://hackmd.io/@siansiansu/SJFLvODTT)
+- [鳥仔 ê 形體外觀](https://hackmd.io/@siansiansu/SJFLvODTT)
 - [捷用 ê 形容詞](https://hackmd.io/@siansiansu/BJR4_5uTp)
 
 雁形目 gān-hîng-ba̍k
