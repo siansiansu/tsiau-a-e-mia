@@ -21,6 +21,7 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 
 - [轉去頭頁 tńg-khì thâu-ia̍h](https://hackmd.io/@siansiansu/Hy4VzNvha)
 - [鳥仔 ê 形體 tsiáu-á ê hîng-thé](https://hackmd.io/@siansiansu/SJFLvODTT)
+- [捷用 ê 形容詞 tsia̍p-īng ê hîng-iông-sû]()
 
 雁形目 gān-hîng-ba̍k
 ---
@@ -118,12 +119,12 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 - [草鴞科 tsháu-hiau-kho](https://hackmd.io/@siansiansu/H1GfySRnT)
 - [鴟鴞科 tshi-hiau-kho](https://hackmd.io/@siansiansu/SyUc65P36)
 
-夜鷹目
+夜鷹目 iā-ing-ba̍k
 ---
 
 - [夜鷹科 iā-ing-kho](https://hackmd.io/@siansiansu/S1E9QKPTp)
 
-雨燕目
+雨燕目 ú-iàn-ba̍k
 ---
 
 - [雨燕科 ú-iàn-kho](https://hackmd.io/@siansiansu/B1WfXFP6a)
