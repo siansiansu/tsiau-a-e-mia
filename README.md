@@ -202,3 +202,7 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 ---
 
 - [鸚鵡科 ing-bú-kho](https://hackmd.io/@siansiansu/BySwOswhT)
+
+:::warning
+如果您喜歡我的賞鳥筆記、台語文的推廣，歡迎[小額贊助](https://portaly.cc/siansiansu/support)請我喝咖啡。
+:::
