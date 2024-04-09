@@ -5,23 +5,40 @@
 
 <img width="1457" alt="image" src="https://github.com/siansiansu/tsiau-a-e-mia/assets/33391637/53f1aba5-228b-47db-86fb-966fc256bad1">
 
-為著予大家認捌鳥仔 ê 台語。
+<br/>
+<br/>
 
-我整理了這個清單，予大家方便揣鳥仔 ê 台語名。
+為著予大家認捌鳥仔 ê 台語，我整理了這個清單，予大家方便揣鳥仔 ê 台語名，希望會當藉著認捌鳥仔 ê 名，嘛有越來越濟人使用這个漸漸消失 ê 語言。
 
-希望會當藉著認捌鳥仔 ê 名，嘛有越來越濟人使用這个漸漸消失 ê 語言。
+Uī-tio̍h hōo ta-ke jīn-bat tsiáu-á ê Tâi-gí. Guá tsíng-lí tsit-ê tshing-tuann, hōo ta-ke hong-piān tshuē tsiáu-á ê Tâi-gí miâ. Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsuē lâng sú-iōng tsit-ê tsiām-tsiām siau-sit ê gí-giân.
 
-Uī-tio̍h hōo ta-ke jīn-bat tsiáu-á ê Tâi-gí.
+<br/>
 
-Guá tsíng-lí tsit-ê tshing-tuann, hōo ta-ke hong-piān tshuē tsiáu-á ê Tâi-gí miâ.
+:::info
+📕 上新的分類參考 [eBird](https://ebird.org/home)。
+<br/>
+📕 台語俗名參考 [蕭平治 | 還我台灣鳥 á 名](https://siaulahjih.github.io/TaiOanChiauA/)。
+<br/>
+📕 華語俗名參考 [eBird](https://ebird.org/home) 佮[台灣生物多樣性網絡](https://www.tbn.org.tw/)。
+<br/>
+📕 台語字參考 [ChhoeTaigi 台語辭典](https://chhoe.taigi.info/)佮[教育部臺灣閩南語常用詞辭典](https://sutian.moe.edu.tw/)。
+:::
 
-Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsuē lâng sú-iōng tsit-ê tsiām-tsiām siau-sit ê gí-giân.
+:::success
+📣 若是有寫毋著 ê 所在，請佇下跤留言抑是寫電子批共我講，我會趁有閒的時陣來改，請手梳攑懸，多謝！
+
+✉️ 電子批: minsiansu@gmail.com
+<br/>
+📸 相片冊: [siansiansu](https://www.instagram.com/siansiansu/)
+:::
 
 ---
 
 - [轉去頭頁](https://hackmd.io/@siansiansu/Hy4VzNvha)
 - [鳥仔 ê 形體外觀](https://hackmd.io/@siansiansu/SJFLvODTT)
+- [外觀名詞對照表](https://hackmd.io/@siansiansu/r1tH9DGxC)
 - [捷用 ê 形容詞](https://hackmd.io/@siansiansu/BJR4_5uTp)
+- [人名 kap 地名](https://hackmd.io/@siansiansu/r1LkJrsAT)
 
 雁形目 gān-hîng-ba̍k
 ---
@@ -38,10 +55,10 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 
 - [潛鳥科 tsiâm-tsiáu-kho](https://hackmd.io/@siansiansu/rymJ-oma6)
 
-鸊鷉目 phik-su-ba̍k
+水避仔目/鸊鷉目 tsuí-pī-á-ba̍k/phik-su-ba̍k
 ---
 
-- [鸊鷉科 phik-su-kho](https://hackmd.io/@siansiansu/ByPubomp6)
+- [水避仔科/鸊鷉科 tsuí-pī-á-kho/phik-su-kho](https://hackmd.io/@siansiansu/ByPubomp6)
 
 鸌形目 hōo-hîng-ba̍k
 ---
@@ -62,7 +79,7 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 鵜形目 thê-hîng-ba̍k
 ---
 
-- [鵜鶘科 thê-ôo-kho](https://hackmd.io/@siansiansu/ry4dIwSaa)
+- [布袋鳥科/鵜鶘科 pòo-tē-tsiáu-kho/thê-ôo-kho](https://hackmd.io/@siansiansu/ry4dIwSaa)
 - [䴉科 hiân-kho](https://hackmd.io/@siansiansu/ryeZhdDnT)
 - [鷺科 lōo-kho](https://hackmd.io/@siansiansu/HkHts_D2p)
 
@@ -116,7 +133,7 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 鴞形目 hiau-hîng-ba̍k
 ---
 
-- [草鴞科 tsháu-hiau-kho](https://hackmd.io/@siansiansu/H1GfySRnT)
+- [猴面鷹科/草鴞科 kâu-bīn-ing-kho/tsháu-hiau-kho](https://hackmd.io/@siansiansu/H1GfySRnT)
 - [鴟鴞科 tshi-hiau-kho](https://hackmd.io/@siansiansu/SyUc65P36)
 
 夜鷹目 iā-ing-ba̍k
@@ -146,12 +163,12 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 雀形目 tshiok-hîng-ba̍k
 ---
 
-- [八色鳥科 peh-sik-tsiáu-kho](https://hackmd.io/@siansiansu/BklyJgY26)
-- [山椒鳥科 suann-tsiau-tsiáu-kho](https://hackmd.io/@siansiansu/SkkaksD2p)
+- [抾箬仔科/八色鳥科 khioh-ha̍h-á-kho/peh-sik-tsiáu-kho](https://hackmd.io/@siansiansu/BklyJgY26)
+- [戲班仔科/山椒鳥科 hì-pan-á-kho/suann-tsiau-tsiáu-kho](https://hackmd.io/@siansiansu/SkkaksD2p)
 - [燕鵙科 ìnn-kio̍k-kho](https://hackmd.io/@siansiansu/SkdfjtwT6)
 - [伯勞科 pik-lô-kho](https://hackmd.io/@siansiansu/SyXGoYwaT)
 - [黃鸝科 hông-lê-kho](https://hackmd.io/@siansiansu/H1TWgjDha)
-- [卷尾科 kuàn-bé-kho](https://hackmd.io/@siansiansu/ByJKljDhp)
+- [烏鶖科/卷尾科 oo-tshiu-kho/kńg-bué-kho](https://hackmd.io/@siansiansu/ByJKljDhp)
 - [王鶲科 ông-ong-kho](https://hackmd.io/@siansiansu/B1OuLeYn6)
 - [鴉科 a-kho](https://hackmd.io/@siansiansu/r1fCeoD2a)
 - [百靈科 pik-lîng-kho](https://hackmd.io/@siansiansu/HyJXotv6T)
@@ -183,14 +200,14 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 - [椋鳥科 liông-tsiáu-kho](https://hackmd.io/@siansiansu/ry4VUivhp)
 - [啄花科 tok-hue-kho](https://hackmd.io/@siansiansu/rJYwkqPTT)
 - [吸蜜鳥科 khip-bi̍t-tsiáu-kho](https://hackmd.io/@siansiansu/Bykd7gKnT)
-- [鶺鴒科 tsik-lîng-kho](https://hackmd.io/@siansiansu/ryq3UoDnT)
+- [牛屎鳥科 gû-sái-tsiáu-kho/鶺鴒科 tsik-lîng-kho](https://hackmd.io/@siansiansu/ryq3UoDnT)
 - [岩鷚科 gān-liù-kho](https://hackmd.io/@siansiansu/rk9w1cvap)
 - [連雀科 liân-tshiok-kho](https://hackmd.io/@siansiansu/ry1de5DpT)
 - [鵐科 bû-kho](https://hackmd.io/@siansiansu/rJ2SviPha)
 - [鐵爪鵐科 thih-jiáu-bû-kho](https://hackmd.io/@siansiansu/HyJ_l9Pp6)
 - [雀科 tshiok-kho](https://hackmd.io/@siansiansu/BJ2bPoD3p)
 - [麻雀科 muâ-tshiok-kho](https://hackmd.io/@siansiansu/r1x5DiPh6)
-- [梅花雀科 muî-hue-tshiok-kho](https://hackmd.io/@siansiansu/Ske_l5Daa)
+- [嗶仔科 pit-á-kho/梅花雀科 muî-hue-tshiok-kho](https://hackmd.io/@siansiansu/Ske_l5Daa)
 - [扇尾鶲科 sìnn-bué-ong-kho](https://hackmd.io/@siansiansu/HJkkzgKna)
 
 紅鸛目 âng-kuàn-ba̍k
@@ -202,7 +219,3 @@ Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsu
 ---
 
 - [鸚鵡科 ing-bú-kho](https://hackmd.io/@siansiansu/BySwOswhT)
-
-:::warning
-如果您喜歡我的賞鳥筆記、台語文的推廣，歡迎[小額贊助](https://portaly.cc/siansiansu/support)請我喝咖啡。
-:::
