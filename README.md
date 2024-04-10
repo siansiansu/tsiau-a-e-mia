@@ -36,7 +36,7 @@ Uī-tio̍h hōo ta-ke jīn-bat tsiáu-á ê Tâi-gí. Guá tsíng-lí tsit-ê ts
 
 號名範例
 
-![image](https://github.com/siansiansu/tsiau-a-e-mia/assets/33391637/1197da8f-e5df-4ffa-bacd-30c1fb9b0bcb)
+![image](https://github.com/siansiansu/tsiau-a-e-mia/assets/33391637/7f4da6cf-a358-404b-ab4b-3b29dc49097f)
 
 ---
 
