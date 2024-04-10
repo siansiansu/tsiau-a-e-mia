@@ -37,6 +37,7 @@ Uī-tio̍h hōo ta-ke jīn-bat tsiáu-á ê Tâi-gí. Guá tsíng-lí tsit-ê ts
 ---
 
 - [轉去頭頁](https://hackmd.io/@siansiansu/Hy4VzNvha)
+- [號名範例](https://hackmd.io/@siansiansu/Sy8XcYmlC)
 - [鳥仔 ê 形體外觀](https://hackmd.io/@siansiansu/SJFLvODTT)
 - [鳥仔 ê 外觀名詞表](https://hackmd.io/@siansiansu/r1tH9DGxC)
 - [捷用 ê 形容詞](https://hackmd.io/@siansiansu/BJR4_5uTp)
