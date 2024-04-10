@@ -12,8 +12,6 @@
 
 Uī-tio̍h hōo ta-ke jīn-bat tsiáu-á ê Tâi-gí. Guá tsíng-lí tsit-ê tshing-tuann, hōo ta-ke hong-piān tshuē tsiáu-á ê Tâi-gí miâ. Hi-bōng ē-tàng tsioh-tioh jīn-bat tsiáu-á ê miâ, mā-ū lú-lâi-lú tsuē lâng sú-iōng tsit-ê tsiām-tsiām siau-sit ê gí-giân.
 
-<br/>
-
 :::info
 📕 上新的分類參考 [eBird](https://ebird.org/home)。
 <br/>
@@ -22,21 +20,29 @@ Uī-tio̍h hōo ta-ke jīn-bat tsiáu-á ê Tâi-gí. Guá tsíng-lí tsit-ê ts
 📕 華語俗名參考 [eBird](https://ebird.org/home) 佮[台灣生物多樣性網絡](https://www.tbn.org.tw/)。
 <br/>
 📕 台語字參考 [ChhoeTaigi 台語辭典](https://chhoe.taigi.info/)佮[教育部臺灣閩南語常用詞辭典](https://sutian.moe.edu.tw/)。
+<br/>
+📕 鳥仔的外觀參考 [The Sibley Field Guide by David Allen Sibley](https://www.audubon.org/marketplace/sibley-field-guides)。
+<br/>
+📕 鳥仔冊參考台灣野鳥手繪圖鑑(二版)。
 :::
 
 :::success
-📣 若是有寫毋著 ê 所在，請佇下跤留言抑是寫電子批共我講，我會趁有閒的時陣來改，請手梳攑懸，多謝！
+📣 《鳥仔 ê 名》內底包含誠濟台語新詞的創作，目的是予逐家會當用全台語去討論無仝的鳥仔物種。若是有寫毋著 ê 所在，請佇下跤留言抑是寫電子批共我講，我會趁有閒的時陣來改，請手梳攑懸，多謝！
 
 ✉️ 電子批: minsiansu@gmail.com
 <br/>
 📸 相片冊: [siansiansu](https://www.instagram.com/siansiansu/)
 :::
 
+號名範例
+
+![image](https://github.com/siansiansu/tsiau-a-e-mia/assets/33391637/1197da8f-e5df-4ffa-bacd-30c1fb9b0bcb)
+
 ---
 
 - [轉去頭頁](https://hackmd.io/@siansiansu/Hy4VzNvha)
 - [鳥仔 ê 形體外觀](https://hackmd.io/@siansiansu/SJFLvODTT)
-- [外觀名詞對照表](https://hackmd.io/@siansiansu/r1tH9DGxC)
+- [鳥仔 ê 外觀名詞表](https://hackmd.io/@siansiansu/r1tH9DGxC)
 - [捷用 ê 形容詞](https://hackmd.io/@siansiansu/BJR4_5uTp)
 - [人名 kap 地名](https://hackmd.io/@siansiansu/r1LkJrsAT)
 
@@ -149,7 +155,7 @@ Uī-tio̍h hōo ta-ke jīn-bat tsiáu-á ê Tâi-gí. Guá tsíng-lí tsit-ê ts
 佛法僧目 hu̍t-huat-tsing-ba̍k
 ---
 
-- [翠鳥科 hî-káu-kho](https://hackmd.io/@siansiansu/rJlZR5w3p)
+- [釣魚翁科 tiò-hî-ang-kho/翠鳥科 hî-káu-kho](https://hackmd.io/@siansiansu/rJlZR5w3p)
 - [佛法僧科 hu̍t-huat-tsing-kho](https://hackmd.io/@siansiansu/SJtpftva6)
 - [蜂虎科 phang-hóo-kho](https://hackmd.io/@siansiansu/Bku8zYvpa)
 - [戴勝科 tì-sìng-kho](https://hackmd.io/@siansiansu/HJ5D0cwhp)
