@@ -34,10 +34,6 @@ Uī-tio̍h hōo ta-ke jīn-bat tsiáu-á ê Tâi-gí. Guá tsíng-lí tsit-ê ts
 📸 相片冊: [siansiansu](https://www.instagram.com/siansiansu/)
 :::
 
-號名範例
-
-![image](https://github.com/siansiansu/tsiau-a-e-mia/assets/33391637/7f4da6cf-a358-404b-ab4b-3b29dc49097f)
-
 ---
 
 - [轉去頭頁](https://hackmd.io/@siansiansu/Hy4VzNvha)
